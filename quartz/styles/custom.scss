@@ -1,0 +1,223 @@
+@use "./base.scss";
+
+// ---------------------------------------------------------------------------
+// The Barovia Portal — gothic handout styling
+//
+// Player-facing port of the vault's `ravenloft-journal` handout classes so that
+// styled handouts (parchment look, torn/burnt edges, blackletter, whispers, wax
+// seals) survive publishing to Quartz.
+//
+// The parchment sheet is painted on a `::before` layer that is roughened by the
+// `#torn-paper` SVG filter (injected in Body.tsx) so the edges tear, while the
+// text sits on top unfiltered and stays crisp. The blackletter hand and the
+// wax seal are the vault's own assets, extracted from its
+// ravenloft-handouts-v3 snippet so the player site matches the table exactly.
+// ---------------------------------------------------------------------------
+
+@font-face {
+  font-family: "Barovia Blackletter";
+  // The vault's embedded "BlackletterHandout" font. Path is relative to the
+  // emitted stylesheet so it resolves under the /cos-player/ Pages subpath.
+  src: url("static/fonts/BlackletterHandout.ttf") format("truetype");
+  font-weight: 400 700;
+  font-display: swap;
+}
+
+.ravenloft-journal {
+  position: relative;
+  margin: 1.75rem auto;
+  padding: 2.4rem 2.5rem;
+  max-width: 42rem;
+  color: #2b2118;
+  line-height: 1.65;
+  // Sit the text above the torn parchment layer.
+  & > * {
+    position: relative;
+    z-index: 1;
+  }
+
+  // The torn, burnt parchment sheet.
+  &::before {
+    content: "";
+    position: absolute;
+    inset: -10px;
+    z-index: 0;
+    border-radius: 3px;
+    background:
+      radial-gradient(120% 120% at 50% 0%, rgba(255, 250, 235, 0.5), transparent 60%),
+      linear-gradient(180deg, #efe4ca 0%, #e7d8b6 55%, #dcc9a0 100%);
+    // Scorched, darkened edges (burnt look) drawn inward from the torn rim.
+    box-shadow:
+      inset 0 0 26px 6px rgba(74, 44, 18, 0.55),
+      inset 0 0 70px 14px rgba(120, 88, 46, 0.25),
+      0 6px 16px rgba(0, 0, 0, 0.35);
+    // Roughen the rectangle's edges into a torn-paper silhouette.
+    filter: url(#torn-paper);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: #3a2418;
+    border-bottom-color: rgba(122, 20, 32, 0.25);
+  }
+
+  a {
+    color: #7a1420;
+  }
+
+  blockquote {
+    border-left-color: #7a1420;
+    color: #4a3a2a;
+  }
+
+  hr {
+    border-color: rgba(120, 90, 50, 0.35);
+  }
+}
+
+// Gothic blackletter variant — the burnt rim is a touch deeper here.
+.ravenloft-journal.blackletter {
+  // The whole letter is written in the blackletter hand. Bump the size and
+  // leading a little so the dense textura stays readable at body length.
+  font-family: "Barovia Blackletter", serif;
+  font-size: 1.16rem;
+  line-height: 1.8;
+  letter-spacing: 0.01em;
+
+  &::before {
+    box-shadow:
+      inset 0 0 30px 7px rgba(58, 32, 12, 0.62),
+      inset 0 0 80px 16px rgba(110, 78, 40, 0.28),
+      0 6px 16px rgba(0, 0, 0, 0.4);
+  }
+
+  h1,
+  h2,
+  h3 {
+    // Re-assert the hand: Quartz's global heading rule would otherwise win.
+    font-family: "Barovia Blackletter", serif;
+    font-weight: 700;
+    text-transform: none;
+    line-height: 1.2;
+  }
+
+  // Keep records and ritual boxes in a cleaner serif so they stay legible
+  // inside the blackletter frame (matches the vault's handout pack).
+  .official-record,
+  .ritual {
+    font-family: "EB Garamond", serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    letter-spacing: normal;
+  }
+}
+
+// Faint, secretive aside.
+.ravenloft-journal .whisper,
+.whisper {
+  font-style: italic;
+  opacity: 0.7;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+// Bloodied / urgent text.
+.ravenloft-journal .blood,
+.blood {
+  color: #7a1420;
+  font-weight: 600;
+}
+
+// Creeping corruption — the Dark Powers' touch.
+.ravenloft-journal .corruption,
+.corruption {
+  color: #4b2e5e;
+  font-style: italic;
+  text-shadow: 0 0 6px rgba(75, 46, 94, 0.35);
+}
+
+// Cleaner serif boxes that stay readable inside the parchment frame.
+.ravenloft-journal .official-record,
+.ravenloft-journal .ritual,
+.official-record,
+.ritual {
+  font-family: "EB Garamond", serif;
+  background: rgba(255, 255, 255, 0.35);
+  border: 1px solid rgba(120, 90, 50, 0.4);
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+  border-radius: 2px;
+}
+
+// Stamp / seal block.
+.ravenloft-journal .seal,
+.seal {
+  text-align: center;
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  color: #7a1420;
+}
+
+// Letter salutation line ("To My Esteemed Guests").
+.ravenloft-journal .letter-header,
+.letter-header {
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+  font-size: 1.15rem;
+  margin-bottom: 1rem;
+  color: #3a2418;
+}
+
+// Signature line at the foot of a letter.
+.ravenloft-journal .signature,
+.signature {
+  margin-top: 1.5rem;
+  text-align: right;
+  font-style: italic;
+  font-size: 1.1rem;
+  color: #3a2418;
+}
+
+// Two-page spread (e.g. an open ledger or journal).
+.ravenloft-journal .book-spread,
+.book-spread {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+.ravenloft-journal .book-page,
+.book-page {
+  border-right: 1px solid rgba(120, 90, 50, 0.3);
+  padding-right: 1.25rem;
+
+  &:last-child {
+    border-right: none;
+    padding-right: 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .ravenloft-journal .book-spread,
+  .book-spread {
+    grid-template-columns: 1fr;
+  }
+  .ravenloft-journal .book-page,
+  .book-page {
+    border-right: none;
+    padding-right: 0;
+  }
+}
+
+// Red wax crest stamped at the foot of a sealed letter — the vault's own
+// seal image (extracted from the ravenloft-handouts-v3 snippet). Geometry
+// matches the vault's .wax-seal rule. Path is relative to the emitted
+// stylesheet so it resolves under the GitHub Pages subpath.
+.wax-seal {
+  width: 128px;
+  height: 128px;
+  margin: 1.4rem 6px 0 auto;
+  background: url("static/img/wax-seal.png") center / contain no-repeat;
+}

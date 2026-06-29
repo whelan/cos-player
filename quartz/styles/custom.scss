@@ -106,6 +106,57 @@
   color: #7a1420;
 }
 
+// Letter salutation line ("To My Esteemed Guests").
+.ravenloft-journal .letter-header,
+.letter-header {
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+  font-size: 1.15rem;
+  margin-bottom: 1rem;
+  color: #3a2418;
+}
+
+// Signature line at the foot of a letter.
+.ravenloft-journal .signature,
+.signature {
+  margin-top: 1.5rem;
+  text-align: right;
+  font-style: italic;
+  font-size: 1.1rem;
+  color: #3a2418;
+}
+
+// Two-page spread (e.g. an open ledger or journal).
+.ravenloft-journal .book-spread,
+.book-spread {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+.ravenloft-journal .book-page,
+.book-page {
+  border-right: 1px solid rgba(120, 90, 50, 0.3);
+  padding-right: 1.25rem;
+
+  &:last-child {
+    border-right: none;
+    padding-right: 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .ravenloft-journal .book-spread,
+  .book-spread {
+    grid-template-columns: 1fr;
+  }
+  .ravenloft-journal .book-page,
+  .book-page {
+    border-right: none;
+    padding-right: 0;
+  }
+}
+
 // Red wax crest stamped at the foot of a sealed letter.
 .wax-seal {
   width: 64px;

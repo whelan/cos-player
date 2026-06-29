@@ -4,24 +4,59 @@
 // The Barovia Portal — gothic handout styling
 //
 // Player-facing port of the vault's `ravenloft-journal` handout classes so that
-// styled handouts (parchment look, whispers, wax seals) survive publishing to
-// Quartz. The torn-paper textures and embedded fonts from the Obsidian snippet
-// are not available here, so this is a lighter, self-contained approximation.
+// styled handouts (parchment look, torn/burnt edges, blackletter, whispers, wax
+// seals) survive publishing to Quartz.
+//
+// The parchment sheet is painted on a `::before` layer that is roughened by the
+// `#torn-paper` SVG filter (injected in Body.tsx) so the edges tear, while the
+// text sits on top unfiltered and stays crisp. The blackletter hand is a
+// locally bundled web font (no CDN dependency).
+//
+// To match the DM vault's handouts exactly, swap in its BlackKnightFLF font:
+// drop BlackKnightFLF.woff2 into quartz/static/fonts/ and point the @font-face
+// src below at it. UnifrakturMaguntia (a textura blackletter) is the stand-in.
 // ---------------------------------------------------------------------------
+
+@font-face {
+  font-family: "Barovia Blackletter";
+  // Relative to the emitted stylesheet so it also resolves under the
+  // /cos-player/ GitHub Pages subpath.
+  src: url("static/fonts/UnifrakturMaguntia.ttf") format("truetype");
+  font-weight: 400 700;
+  font-display: swap;
+}
 
 .ravenloft-journal {
   position: relative;
-  margin: 1.5rem auto;
-  padding: 2rem 2.25rem;
+  margin: 1.75rem auto;
+  padding: 2.4rem 2.5rem;
   max-width: 42rem;
-  border-radius: 2px;
-  background: #ece0c8;
   color: #2b2118;
-  box-shadow:
-    0 1px 2px rgba(0, 0, 0, 0.25),
-    inset 0 0 60px rgba(120, 90, 50, 0.18);
-  border: 1px solid #cbb893;
-  line-height: 1.6;
+  line-height: 1.65;
+  // Sit the text above the torn parchment layer.
+  & > * {
+    position: relative;
+    z-index: 1;
+  }
+
+  // The torn, burnt parchment sheet.
+  &::before {
+    content: "";
+    position: absolute;
+    inset: -10px;
+    z-index: 0;
+    border-radius: 3px;
+    background:
+      radial-gradient(120% 120% at 50% 0%, rgba(255, 250, 235, 0.5), transparent 60%),
+      linear-gradient(180deg, #efe4ca 0%, #e7d8b6 55%, #dcc9a0 100%);
+    // Scorched, darkened edges (burnt look) drawn inward from the torn rim.
+    box-shadow:
+      inset 0 0 26px 6px rgba(74, 44, 18, 0.55),
+      inset 0 0 70px 14px rgba(120, 88, 46, 0.25),
+      0 6px 16px rgba(0, 0, 0, 0.35);
+    // Roughen the rectangle's edges into a torn-paper silhouette.
+    filter: url(#torn-paper);
+  }
 
   h1,
   h2,
@@ -45,18 +80,30 @@
   }
 }
 
-// Gothic blackletter variant.
+// Gothic blackletter variant — the burnt rim is a touch deeper here.
 .ravenloft-journal.blackletter {
-  background: #e7d6b4;
-  border-color: #b59c6e;
+  &::before {
+    box-shadow:
+      inset 0 0 30px 7px rgba(58, 32, 12, 0.62),
+      inset 0 0 80px 16px rgba(110, 78, 40, 0.28),
+      0 6px 16px rgba(0, 0, 0, 0.4);
+  }
 
   h1,
   h2,
   h3 {
-    font-family: var(--headerFont), "Cinzel", serif;
-    letter-spacing: 0.04em;
+    font-family: "Barovia Blackletter", "UnifrakturMaguntia", serif;
     font-weight: 700;
-    text-transform: uppercase;
+    letter-spacing: 0.01em;
+    text-transform: none;
+    line-height: 1.2;
+  }
+
+  // The salutation and signature also carry the blackletter hand.
+  .letter-header,
+  .signature {
+    font-family: "Barovia Blackletter", "UnifrakturMaguntia", serif;
+    font-variant: normal;
   }
 }
 

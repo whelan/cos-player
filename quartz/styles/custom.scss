@@ -1,0 +1,131 @@
+@use "./base.scss";
+
+// ---------------------------------------------------------------------------
+// The Barovia Portal — gothic handout styling
+//
+// Player-facing port of the vault's `ravenloft-journal` handout classes so that
+// styled handouts (parchment look, whispers, wax seals) survive publishing to
+// Quartz. The torn-paper textures and embedded fonts from the Obsidian snippet
+// are not available here, so this is a lighter, self-contained approximation.
+// ---------------------------------------------------------------------------
+
+.ravenloft-journal {
+  position: relative;
+  margin: 1.5rem auto;
+  padding: 2rem 2.25rem;
+  max-width: 42rem;
+  border-radius: 2px;
+  background: #ece0c8;
+  color: #2b2118;
+  box-shadow:
+    0 1px 2px rgba(0, 0, 0, 0.25),
+    inset 0 0 60px rgba(120, 90, 50, 0.18);
+  border: 1px solid #cbb893;
+  line-height: 1.6;
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: #3a2418;
+    border-bottom-color: rgba(122, 20, 32, 0.25);
+  }
+
+  a {
+    color: #7a1420;
+  }
+
+  blockquote {
+    border-left-color: #7a1420;
+    color: #4a3a2a;
+  }
+
+  hr {
+    border-color: rgba(120, 90, 50, 0.35);
+  }
+}
+
+// Gothic blackletter variant.
+.ravenloft-journal.blackletter {
+  background: #e7d6b4;
+  border-color: #b59c6e;
+
+  h1,
+  h2,
+  h3 {
+    font-family: var(--headerFont), "Cinzel", serif;
+    letter-spacing: 0.04em;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+}
+
+// Faint, secretive aside.
+.ravenloft-journal .whisper,
+.whisper {
+  font-style: italic;
+  opacity: 0.7;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+// Bloodied / urgent text.
+.ravenloft-journal .blood,
+.blood {
+  color: #7a1420;
+  font-weight: 600;
+}
+
+// Creeping corruption — the Dark Powers' touch.
+.ravenloft-journal .corruption,
+.corruption {
+  color: #4b2e5e;
+  font-style: italic;
+  text-shadow: 0 0 6px rgba(75, 46, 94, 0.35);
+}
+
+// Cleaner serif boxes that stay readable inside the parchment frame.
+.ravenloft-journal .official-record,
+.ravenloft-journal .ritual,
+.official-record,
+.ritual {
+  font-family: "EB Garamond", serif;
+  background: rgba(255, 255, 255, 0.35);
+  border: 1px solid rgba(120, 90, 50, 0.4);
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+  border-radius: 2px;
+}
+
+// Stamp / seal block.
+.ravenloft-journal .seal,
+.seal {
+  text-align: center;
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  color: #7a1420;
+}
+
+// Red wax crest stamped at the foot of a sealed letter.
+.wax-seal {
+  width: 64px;
+  height: 64px;
+  margin: 1.5rem auto 0.25rem;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 30%, #b3303c, #7a1420 60%, #4e0d14);
+  box-shadow:
+    inset 0 0 8px rgba(0, 0, 0, 0.5),
+    0 2px 4px rgba(0, 0, 0, 0.4);
+  position: relative;
+
+  &::after {
+    content: "✶";
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgba(255, 220, 200, 0.55);
+    font-size: 1.5rem;
+  }
+}

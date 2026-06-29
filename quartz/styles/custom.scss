@@ -9,19 +9,16 @@
 //
 // The parchment sheet is painted on a `::before` layer that is roughened by the
 // `#torn-paper` SVG filter (injected in Body.tsx) so the edges tear, while the
-// text sits on top unfiltered and stays crisp. The blackletter hand is a
-// locally bundled web font (no CDN dependency).
-//
-// To match the DM vault's handouts exactly, swap in its BlackKnightFLF font:
-// drop BlackKnightFLF.woff2 into quartz/static/fonts/ and point the @font-face
-// src below at it. UnifrakturMaguntia (a textura blackletter) is the stand-in.
+// text sits on top unfiltered and stays crisp. The blackletter hand and the
+// wax seal are the vault's own assets, extracted from its
+// ravenloft-handouts-v3 snippet so the player site matches the table exactly.
 // ---------------------------------------------------------------------------
 
 @font-face {
   font-family: "Barovia Blackletter";
-  // Relative to the emitted stylesheet so it also resolves under the
-  // /cos-player/ GitHub Pages subpath.
-  src: url("static/fonts/UnifrakturMaguntia.ttf") format("truetype");
+  // The vault's embedded "BlackletterHandout" font. Path is relative to the
+  // emitted stylesheet so it resolves under the /cos-player/ Pages subpath.
+  src: url("static/fonts/BlackletterHandout.ttf") format("truetype");
   font-weight: 400 700;
   font-display: swap;
 }
@@ -82,6 +79,13 @@
 
 // Gothic blackletter variant — the burnt rim is a touch deeper here.
 .ravenloft-journal.blackletter {
+  // The whole letter is written in the blackletter hand. Bump the size and
+  // leading a little so the dense textura stays readable at body length.
+  font-family: "Barovia Blackletter", serif;
+  font-size: 1.16rem;
+  line-height: 1.8;
+  letter-spacing: 0.01em;
+
   &::before {
     box-shadow:
       inset 0 0 30px 7px rgba(58, 32, 12, 0.62),
@@ -92,18 +96,21 @@
   h1,
   h2,
   h3 {
-    font-family: "Barovia Blackletter", "UnifrakturMaguntia", serif;
+    // Re-assert the hand: Quartz's global heading rule would otherwise win.
+    font-family: "Barovia Blackletter", serif;
     font-weight: 700;
-    letter-spacing: 0.01em;
     text-transform: none;
     line-height: 1.2;
   }
 
-  // The salutation and signature also carry the blackletter hand.
-  .letter-header,
-  .signature {
-    font-family: "Barovia Blackletter", "UnifrakturMaguntia", serif;
-    font-variant: normal;
+  // Keep records and ritual boxes in a cleaner serif so they stay legible
+  // inside the blackletter frame (matches the vault's handout pack).
+  .official-record,
+  .ritual {
+    font-family: "EB Garamond", serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    letter-spacing: normal;
   }
 }
 
@@ -204,26 +211,13 @@
   }
 }
 
-// Red wax crest stamped at the foot of a sealed letter.
+// Red wax crest stamped at the foot of a sealed letter — the vault's own
+// seal image (extracted from the ravenloft-handouts-v3 snippet). Geometry
+// matches the vault's .wax-seal rule. Path is relative to the emitted
+// stylesheet so it resolves under the GitHub Pages subpath.
 .wax-seal {
-  width: 64px;
-  height: 64px;
-  margin: 1.5rem auto 0.25rem;
-  border-radius: 50%;
-  background: radial-gradient(circle at 35% 30%, #b3303c, #7a1420 60%, #4e0d14);
-  box-shadow:
-    inset 0 0 8px rgba(0, 0, 0, 0.5),
-    0 2px 4px rgba(0, 0, 0, 0.4);
-  position: relative;
-
-  &::after {
-    content: "✶";
-    position: absolute;
-    inset: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: rgba(255, 220, 200, 0.55);
-    font-size: 1.5rem;
-  }
+  width: 128px;
+  height: 128px;
+  margin: 1.4rem 6px 0 auto;
+  background: url("static/img/wax-seal.png") center / contain no-repeat;
 }

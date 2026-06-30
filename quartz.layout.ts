@@ -6,22 +6,17 @@ import * as Component from "./quartz/components"
  *
  * Comments render at the bottom of every content page. Reading is open to
  * everyone; posting requires a (free) GitHub sign-in, because the thread is
- * stored as GitHub Discussions on the cos-player repo.
- *
- * BEFORE THIS WORKS you must do the one-time setup in README.md
- * ("Session log / comments (Giscus)") and paste the two IDs below. Until then
- * the comment box simply shows a configuration notice and nothing breaks.
- *
- * The values can also be supplied at build time via the GISCUS_REPO_ID and
- * GISCUS_CATEGORY_ID environment variables (handy for the GitHub Action).
+ * stored as GitHub Discussions on the cos-player repo, in the "Session Log"
+ * category. IDs below are from giscus.app's generated config for this repo;
+ * they can be overridden at build time via GISCUS_REPO_ID / GISCUS_CATEGORY_ID.
  */
 const giscus = Component.Comments({
   provider: "giscus",
   options: {
     repo: "whelan/cos-player",
-    repoId: process.env.GISCUS_REPO_ID ?? "REPLACE_WITH_REPO_ID",
+    repoId: process.env.GISCUS_REPO_ID ?? "R_kgDOTIzrBA",
     category: "Session Log",
-    categoryId: process.env.GISCUS_CATEGORY_ID ?? "REPLACE_WITH_CATEGORY_ID",
+    categoryId: process.env.GISCUS_CATEGORY_ID ?? "DIC_kwDOTIzrBM4DAPJf",
     // One thread per page, keyed on the page path (stable across renames of the title).
     mapping: "pathname",
     themeUrl: "https://giscus.app/themes",

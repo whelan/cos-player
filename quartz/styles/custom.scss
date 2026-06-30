@@ -53,6 +53,25 @@
       0 6px 16px rgba(0, 0, 0, 0.35);
     // Roughen the rectangle's edges into a torn-paper silhouette.
     filter: url(#torn-paper);
+    // Promote to its own GPU layer so the turbulence filter is rasterized once
+    // and merely composited while scrolling (avoids per-frame repaint jank).
+    transform: translateZ(0);
+    backface-visibility: hidden;
+  }
+
+  // The parchment is always light, so keep the handout text dark in BOTH
+  // themes. Quartz's dark-mode sets body text to a light variable, which would
+  // otherwise wash the letter out — override it with class-level specificity.
+  &,
+  :is(p, li, blockquote, td, th, strong, em, h4, h5, h6) {
+    color: #2b2118;
+  }
+
+  // Quartz colours `.page article p > strong` with --dark (light in dark mode),
+  // at a higher specificity than the rule above — so emphasised text inside
+  // paragraphs/blockquotes stayed washed out. Double the class to win.
+  &#{&} :is(p, li, blockquote) :is(strong, b, em, i) {
+    color: #2b2118;
   }
 
   h1,
@@ -208,6 +227,20 @@
   .book-page {
     border-right: none;
     padding-right: 0;
+  }
+}
+
+// On phones the live turbulence filter re-rasterizes on every scroll frame and
+// makes scrolling stutter. Drop it there (the torn silhouette is barely visible
+// at that size anyway) and keep the parchment smooth with a soft rounded edge.
+@media (max-width: 820px) {
+  .ravenloft-journal {
+    padding: 1.6rem 1.4rem;
+  }
+  .ravenloft-journal::before {
+    filter: none;
+    inset: -4px;
+    border-radius: 6px;
   }
 }
 

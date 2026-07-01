@@ -2,7 +2,7 @@
 title: The Barovia Portal
 ---
 
-<div class="ravenloft-journal blackletter">
+<div class="ravenloft-journal">
 
 # The Barovia Portal
 

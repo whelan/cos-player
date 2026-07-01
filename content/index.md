@@ -15,6 +15,7 @@ Welcome, traveller. This is your gateway to the campaign — the things you are 
 ## Start here
 
 - **[[Player Introduction]]** — what this campaign is, its tone, the content-and-safety agreement, and what is expected of you. Read this first.
+- **[[Building Your Character]]** — a step-by-step guide to creating your character: backstory tables, personality, flaws and bonds, and optional Barovian race options.
 
 *(Your character briefing, if you have a special one, is given to you privately by the DM — it lives outside this portal.)*
 

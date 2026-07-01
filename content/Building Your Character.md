@@ -14,7 +14,7 @@ Pick any species and class from the 2024 Player's Handbook (or another source yo
 **One exception:** there is no playable vampire species. Every vampire in Barovia traces back to Strahd, their creator, and must obey his commands — a player character bound to the campaign's central villain would actively prevent the party from opposing him.
 
 > [!info]+ Ability score improvements come from your Background, not your species
-> Under the 2024 rules, your species gives you traits (like Darkvision or racial resistances) but no ability score bonus. That bonus comes from the **Background** you pick in Step 3, along with an Origin feat.
+> Under the 2024 rules, your species gives you traits (like Darkvision or damage resistances) but no ability score bonus. That bonus comes from the **Background** you pick in Step 3, along with an Origin feat.
 
 > [!info]+ Weapon Mastery
 > If you're a Barbarian, Fighter, Monk, Paladin, Ranger, or Rogue, you get to apply a mastery property (Cleave, Graze, Nick, Push, Sap, Slow, Topple, or Vex) to weapons you're proficient with, starting at 1st level. Check your class table in the 2024 Player's Handbook for exactly when and how many.

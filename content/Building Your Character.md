@@ -7,14 +7,20 @@
 
 ---
 
-## Step 1 — Race & Class
+## Step 1 — Species & Class
 
-Pick any race and class from the Player's Handbook (or another source your DM allows). There's no restriction beyond the usual — talk to your DM if you have something unusual in mind.
+Pick any species and class from the 2024 Player's Handbook (or another source your DM allows). There's no restriction beyond the usual — talk to your DM if you have something unusual in mind.
 
-**One exception:** there is no playable vampire race. Every vampire in Barovia traces back to Strahd, their creator, and must obey his commands — a player character bound to the campaign's central villain would actively prevent the party from opposing him.
+**One exception:** there is no playable vampire species. Every vampire in Barovia traces back to Strahd, their creator, and must obey his commands — a player character bound to the campaign's central villain would actively prevent the party from opposing him.
+
+> [!info]+ Ability score improvements come from your Background, not your species
+> Under the 2024 rules, your species gives you traits (like Darkvision or racial resistances) but no ability score bonus. That bonus comes from the **Background** you pick in Step 3, along with an Origin feat.
+
+> [!info]+ Weapon Mastery
+> If you're a Barbarian, Fighter, Monk, Paladin, Ranger, or Rogue, you get to apply a mastery property (Cleave, Graze, Nick, Push, Sap, Slow, Topple, or Vex) to weapons you're proficient with, starting at 1st level. Check your class table in the 2024 Player's Handbook for exactly when and how many.
 
 > [!info]+ Optional: playing a character born in Barovia
-> If your character concept is a *native Barovian* rather than an outsider swept in by the mists, four homebrew subraces are available — see **[[#Barovian race options]]** below. All of them require your DM's approval.
+> If your character concept is a *native Barovian* rather than an outsider swept in by the mists, four homebrew subspecies are available — see **[[#Barovian species options]]** below. All of them require your DM's approval.
 
 ---
 
@@ -103,30 +109,31 @@ Roll 1d4−1 (minimum 1) to determine how many fateful relationships you have, t
 
 ### Background
 
-Roll or choose freely.
+Your background is more than flavor under the 2024 rules — it's where your character's **ability score improvement** (+2 to one ability and +1 to another, or +1 to three), two **skill proficiencies**, a **tool proficiency**, starting equipment, and an **Origin feat** all come from. Pick whichever fits your concept below, then check the 2024 Player's Handbook for that background's exact grants — or ask your DM.
 
-| d20 | Background | Source |
-|-----|------------|--------|
-| 1 | Acolyte | PHB |
-| 2 | Charlatan | PHB |
-| 3 | City Watch | SCAG |
-| 4 | Cloistered Scholar | SCAG |
-| 5 | Courtier | SCAG |
-| 6 | Criminal | PHB |
-| 7 | Entertainer | PHB |
-| 8 | Fisher | GoS |
-| 9 | Folk Hero | PHB |
-| 10 | Guild Artisan | PHB |
-| 11 | Haunted One | CoS |
-| 12 | Hermit | PHB |
-| 13 | Knight of the Order | SCAG |
-| 14 | Noble | PHB |
-| 15 | Outlander | PHB |
-| 16 | Sage | PHB |
-| 17 | Sailor | PHB |
-| 18 | Sailor (Pirate) | PHB |
-| 19 | Soldier | PHB |
-| 20 | Urchin | PHB |
+Roll or choose freely from the 16 backgrounds in the 2024 Player's Handbook.
+
+| d16 | Background |
+|-----|------------|
+| 1 | Acolyte |
+| 2 | Artisan |
+| 3 | Charlatan |
+| 4 | Criminal |
+| 5 | Entertainer |
+| 6 | Farmer |
+| 7 | Guard |
+| 8 | Guide |
+| 9 | Hermit |
+| 10 | Merchant |
+| 11 | Noble |
+| 12 | Sage |
+| 13 | Sailor |
+| 14 | Scribe |
+| 15 | Soldier |
+| 16 | Wayfarer |
+
+> [!note]- If you know the 2014 backgrounds
+> Rough equivalents: City Watch/Knight of the Order → **Guard**; Cloistered Scholar → **Sage** or **Scribe**; Courtier → **Noble**; Fisher → **Sailor** or **Guide**; Folk Hero → **Guide** or **Farmer**; Guild Artisan → **Artisan**; Outlander → **Wayfarer**; Urchin → **Criminal** or **Guard**, reflavored. **Haunted One** (the *Curse of Strahd*-specific background) and **Sailor (Pirate)** have no official 2024 version — ask your DM whether to reflavor a close 2024 background or keep using the 2014 one for that pick specifically.
 
 ### Phobia
 
@@ -268,45 +275,44 @@ Pick one or more of each to anchor your character emotionally in the story — a
 
 ---
 
-## Barovian race options
+## Barovian species options
 
-*Optional homebrew subraces for characters born in Barovia. All require your DM's approval, and contain minor worldbuilding spoilers about Barovia's peoples — nothing that touches the campaign's central mysteries.*
+*Optional homebrew subspecies for characters born in Barovia. All require your DM's approval, and contain minor worldbuilding spoilers about Barovia's peoples — nothing that touches the campaign's central mysteries.*
 
-### Dusk Elf (Elf Subrace)
+> [!note]+ No ability score bonus here — that comes from your Background
+> These homebrew subspecies predate the 2024 rules and originally granted a fixed ability score increase. Under 2024, ability score improvements come only from your Background (Step 3), so the increases below are dropped; everything else about each subspecies (proficiencies, resistances, shapechanging, and so on) still applies as written.
+
+### Dusk Elf (Elf Subspecies)
 
 A rare, nearly extinct subgroup of elves native to the Domains of Dread, settled in Barovia's valley after a war with Strahd's father generations ago. They live in a small settlement south of Vallaki, sharing space with a Vistani camp, and have long since given up open confrontation.
 
 - **Age.** Minimum age of about 250 years; no dusk elf child has been born in generations.
-- **Ability Score Increase.** Wisdom +1.
 - **Dusk Elf Weapon Training.** Proficiency with hand crossbows, light crossbows, shortbows, and longbows.
 - **Fleet of Foot.** Base walking speed 35 feet.
 - **Shadow Masking.** Advantage on Dexterity (Stealth) checks to hide in darkness or heavily obscured natural surroundings (foliage, heavy rain, falling snow, mist).
 
-### Vistani (Human Subrace)
+### Vistani (Human Subspecies)
 
-*Replaces the Human Variant options in the PHB.* The Vistani are a colorful, nomadic people who travel Barovia in family groups, prize the gift of divination, and believe in the Threads of Fate rather than any god.
+*Replaces the standard Human traits in the 2024 PHB.* The Vistani are a colorful, nomadic people who travel Barovia in family groups, prize the gift of divination, and believe in the Threads of Fate rather than any god.
 
-- **Ability Score Increase.** Two different ability scores of your choice +1.
 - **Vistani Skill.** Proficiency in one of: Deception, History, Insight, Perception, Performance, Persuasion, Sleight of Hand, Stealth.
 - **Mist-Bound.** Taking up arms against Strahd costs you free passage through the mists — but you keep your Vistani relationships.
 - **Premonition.** Proficiency with Tarokka cards. Once per long rest, use your reaction to reduce melee damage taken by 1d8 + your Charisma modifier.
 - **Vistani Curse.** Cast *bane* (or, at 9th level, *bestow curse*) without somatic/material components — or apply a minor cosmetic/inconveniencing curse instead. Full mechanical text available from your DM.
 
-### Wereraven (Human Subrace)
+### Wereraven (Human Subspecies)
 
-*Replaces the Human Variant options in the PHB.* Inherited (not infected) lycanthropes who live peacefully among Barovians; some form a mutual-support network called the Keepers of the Feather.
+*Replaces the standard Human traits in the 2024 PHB.* Inherited (not infected) lycanthropes who live peacefully among Barovians; some form a mutual-support network called the Keepers of the Feather.
 
-- **Ability Score Increase.** Two different ability scores of your choice +1.
 - **Wereraven Skill.** Proficiency in one of: Acrobatics, Animal Handling, Deception, Insight, Perception, Stealth.
 - **Shapechanger.** Shift between human, raven-hybrid, and raven forms.
 - **Curse's Rage.** A short, powerful rage in hybrid form — damage resistance, advantage on Dex/Wis saves, extra unarmed strikes — followed by exhaustion.
 - **Silver Vulnerability**, **Birds of a Feather**, and **Mimicry** round out the traits. Full mechanical text available from your DM.
 
-### Werewolf (Human Subrace)
+### Werewolf (Human Subspecies)
 
-*Replaces the Human Variant options in the PHB.* Unlike wereravens, Barovia's werewolves are mostly infected and dangerous — an inherited werewolf character is a rare exception, living on the fringes of settlements in small packs.
+*Replaces the standard Human traits in the 2024 PHB.* Unlike wereravens, Barovia's werewolves are mostly infected and dangerous — an inherited werewolf character is a rare exception, living on the fringes of settlements in small packs.
 
-- **Ability Score Increase.** Two different ability scores of your choice +1.
 - **Werewolf Skill.** Proficiency in one of: Animal Handling, Athletics, Intimidation, Nature, Perception, Stealth, Survival.
 - **Shapechanger.** Shift between human, wolf-hybrid, and wolf forms.
 - **Curse's Rage** and **Silver Vulnerability** as the wereraven, above.

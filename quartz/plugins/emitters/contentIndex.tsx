@@ -102,7 +102,11 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
       for (const [tree, file] of content) {
         const slug = file.data.slug!
         const date = getDate(ctx.cfg.configuration, file.data) ?? new Date()
-        if (opts?.includeEmptyFiles || (file.data.text && file.data.text !== "")) {
+        // Pages under content/unlisted/ are unlisted (see quartz.layout.ts): they still
+        // build and are reachable by direct URL, but are excluded here so they never
+        // surface in Search, the Sitemap, RSS, or the Graph View.
+        const isUnlisted = file.data.relativePath?.startsWith("unlisted/")
+        if (!isUnlisted && (opts?.includeEmptyFiles || (file.data.text && file.data.text !== ""))) {
           linkIndex.set(slug, {
             slug,
             filePath: file.data.relativePath!,

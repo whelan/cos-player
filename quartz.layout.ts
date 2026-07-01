@@ -1,5 +1,22 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { FileTrieNode } from "./quartz/util/fileTrie"
+
+/**
+ * Pages under content/unlisted/ build and are reachable by direct URL (for a
+ * DM to hand a specific player, the same way Ireena's PC briefing or a
+ * background hook is shared 1:1), but this filterFn hides the whole folder
+ * from the Explorer sidebar tree. They're also excluded from
+ * Search/Sitemap/RSS/Graph via a matching check in
+ * quartz/plugins/emitters/contentIndex.tsx — keep the two in sync.
+ *
+ * NB: the folder is named "unlisted", not "private" — Quartz's own
+ * `ignorePatterns` config already treats a literal "private" folder as
+ * excluded from the build entirely, which would make these pages
+ * unreachable even via direct URL.
+ */
+const explorerFilterFn = (node: FileTrieNode) =>
+  node.slugSegment !== "tags" && node.slugSegment !== "unlisted"
 
 /**
  * Giscus — shared player session log / comments.
@@ -69,7 +86,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ filterFn: explorerFilterFn }),
   ],
   right: [
     Component.Graph(),
@@ -95,7 +112,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ filterFn: explorerFilterFn }),
   ],
   right: [],
 }

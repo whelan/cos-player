@@ -102,6 +102,25 @@ Hvem I hjælper, hvem I forråder, hvad I ødelægger, og hvad I beskytter — a
 
 ---
 
+## Kampagnekontrakten
+
+*Læs den igennem sammen med resten af gruppen — det er ikke en formalitet, men en fælles forventningsafstemning før I går i gang.*
+
+Jeg, **________________________**, forstår og accepterer følgende:
+
+- Jeg spiller en karakter, der — om end fejlbarlig — enten (a) allerede er aktivt heltemodig, eller (b) er en social, samarbejdsvillig karakter, der bevæger sig mod heltemod inden for de første fem sessioner.
+- Jeg lader min karakter føle ægte, hjælpeløs frygt over for overvældende trusler, og lader den frygt påvirke karakterens handlinger, vækst og udvikling.
+- Jeg gør et ægte forsøg på at opbygge meningsfulde relationer til NPC'er.
+- Denne kampagne kræver alliancer og samarbejde — ikke paranoia eller asocial adfærd.
+- DM'en snyder mig ikke og giver mig en fair chance for at undgå farlige situationer gennem tydelige varsler.
+- Kampagnen fokuserer primært på sociale møder, efterforskning og udforskning. Kamp kan forekomme så sjældent som én gang hver anden eller tredje session.
+- Skatte og magiske genstande er sjældne — de fleste belønninger er relationer og alliancer.
+- Magtfulde fjender kan ikke altid besejres i kamp — find allierede, niveauer og ressourcer.
+- Monstre og skabninger er ikke nødvendigvis onde blot i kraft af deres art. Bedøm dem individuelt.
+- Jeg vil ikke opsøge spoilers, videoer, kunst eller andet medie om Curse of Strahd.
+
+---
+
 ## Et sidste ord
 
 Curse of Strahd er bedst, når alle går all-in. Når I lader jeres karakterer være bange. Når I fejrer små sejre og sørger over ægte tab. Når I stoler på, at historien fører jer et sted hen, det er værd at komme til.

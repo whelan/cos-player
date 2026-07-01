@@ -9,14 +9,20 @@ import * as Component from "./quartz/components"
  * stored as GitHub Discussions on the cos-player repo, in the "Session Log"
  * category. IDs below are from giscus.app's generated config for this repo;
  * they can be overridden at build time via GISCUS_REPO_ID / GISCUS_CATEGORY_ID.
+ *
+ * NOTE: the workflow always sets these two env vars from repo secrets, and
+ * GitHub Actions substitutes an *empty string* (not undefined) for a secret
+ * that doesn't exist. `??` only falls back on null/undefined, so it silently
+ * let "" through and shipped a giscus widget with blank IDs. Use `||` instead
+ * so an empty string also falls back to the hardcoded default.
  */
 const giscus = Component.Comments({
   provider: "giscus",
   options: {
     repo: "whelan/cos-player",
-    repoId: process.env.GISCUS_REPO_ID ?? "R_kgDOTIzrBA",
+    repoId: process.env.GISCUS_REPO_ID || "R_kgDOTIzrBA",
     category: "Session Log",
-    categoryId: process.env.GISCUS_CATEGORY_ID ?? "DIC_kwDOTIzrBM4DAPJf",
+    categoryId: process.env.GISCUS_CATEGORY_ID || "DIC_kwDOTIzrBM4DAPJf",
     // One thread per page, keyed on the page path (stable across renames of the title).
     mapping: "pathname",
     themeUrl: "https://giscus.app/themes",

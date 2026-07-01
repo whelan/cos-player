@@ -29,7 +29,7 @@ Du har tre minder der aldrig går væk:
 
 ### Hvorfor du er her
 
-Tågen tog dig. Det er den enkleste forklaring. Du rejste, tågen rullede ind, og da den lettede stod du på en vej du ikke kender i et land du ikke burde kende — men et sted i kroppen vidste du, at du var kommet *hjem*. Det er en fornemmelse du hader.
+Tågen tog dig. Det er den enkleste forklaring. Du rejste, tågen rullede ind, og da den lettede stod du på en vej du ikke kender, i et land du ikke burde kende. Et sted i kroppen vidste du alligevel, at du var kommet *hjem*. Det er en fornemmelse du hader.
 
 ---
 
@@ -43,7 +43,7 @@ Du vil finde ud af det. Det er uundgåeligt.
 
 ### Din bror — Ismark
 
-Når du møder Ismark Kolyanovich i landsbyen, vil han genkende dig. Ikke dig som person — men noget i dit ansigt. Han vil ikke forklare det med det samme. Han vil holde dig tæt, ikke af broderkærlighed han endnu ikke har haft tid til at udvikle, men af pligt. Hans far fortalte ham om dig på sit dødsleje.
+Når du møder Ismark Kolyanovich i landsbyen, vil han genkende noget i dit ansigt, længe før han genkender dig som person. Han forklarer det ikke med det samme. Han holder dig tæt af pligt — hans far fortalte ham om dig på sit dødsleje. Broderkærligheden må vokse frem senere, hvis den overhovedet gør.
 
 Han er ikke din fjende. Men han ved mere end han siger. Det er op til dig at beslutte om du vil presse på — og hvornår.
 

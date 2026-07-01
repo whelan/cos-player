@@ -34,6 +34,10 @@ Some things read as narrative/flavor rather than mechanical, so they *are* trans
 
 When adding new site-level UI strings (new components, new layout text), add the Danish string to `da-DK.ts` rather than leaving default English text in place.
 
+### Writing style: no contrastive negation
+
+Danish prose on this site must **not use contrastive negation** — the "not X, but Y" / "ikke X, men Y" shape (e.g. *"Det var ikke en formalitet, men en forventningsafstemning"*, *"Ikke af glæde, men så folk ikke spørger"*). State the thing directly and affirmatively instead. This mirrors `cos-rework`'s house rule for read-aloud text and dialogue, applied here to all Danish content since the whole site is Danish by default. Don't use this construction — if you think a specific instance would genuinely read better with it, ask before writing it rather than defaulting to it.
+
 ### Page structure convention
 
 Every published page should set a Danish `title:` in its frontmatter (not just rely on the H1) so the Explorer sidebar, browser tab, and internal links all show the Danish title consistently. Link to other pages with an alias so the display text is Danish while the underlying slug stays stable: `[[Building Your Character|Byg din karakter]]`.

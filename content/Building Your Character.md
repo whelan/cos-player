@@ -194,7 +194,7 @@ Slå på trinket-tabellen på s. 210 i *Curse of Strahd* Appendix A — en mærk
 | 8 | Du er ekstremt selvsikker omkring dit eget udseende. Du har for vane at beundre din egen refleksion, når du får chancen. |
 | 9 | Du hævder at tale et eksotisk sprog. Hvis du bliver bedt om at demonstrere det, opfinder du volapyk. Ingen har grebet dig i det endnu. |
 | 10 | Du hilser alle, du møder, med et kram og et kys på kinden, uanset hvor uvenlige de er. Kun åbenlys fjendtlighed stopper denne hilsen. |
-| 11 | Dit hvilende ansigt ser vredt ud. Du prøver ofte at smile — ikke af glæde, men så folk ikke spørger, om du er okay. |
+| 11 | Dit hvilende ansigt ser vredt ud. Du tvinger ofte et smil frem, så folk ikke spørger, om du er okay. |
 | 12 | Du tager alle overtroer alvorligt. Selv hvis du ikke tror på dem, vil du hellere ikke ignorere et dårligt varsel. |
 | 13 | Du er analfabet og vil stoppe ved intet for at sikre, at ingen ved det. |
 | 14 | Du tror, at en mors kærlighed til sine børn er den sandeste kærlighed i verden. |

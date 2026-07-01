@@ -7,7 +7,7 @@ title: Spillerintroduktion
 
 > *"Du er trådt ind i Barovia. Du forlader den ikke som den samme — hvis du overhovedet slipper ud."*
 
-Curse of Strahd er en gotisk horror-kampagne om mysterier, overlevelse og konsekvens. Det er en kampagne om mennesker fanget i et mørkt land, der kæmper ikke kun for deres eget liv, men for livet hos dem omkring dem. Den vil udfordre jeres karakterer moralsk, følelsesmæssigt og fysisk. Det er ikke et spil, man går fra uforandret.
+Curse of Strahd er en gotisk horror-kampagne om mysterier, overlevelse og konsekvens. Det er en kampagne om mennesker fanget i et mørkt land, der kæmper for deres eget liv og for livet hos dem omkring dem. Den vil udfordre jeres karakterer moralsk, følelsesmæssigt og fysisk. Det er ikke et spil, man går fra uforandret.
 
 ---
 
@@ -36,7 +36,7 @@ Denne kampagne er gotisk horror. Forvent:
 **Denne kampagne indeholder:**
 
 - Psykologisk gru og ildevarslende stemning
-- Vold — ikke grænseløs, men til stede og meningsfuld
+- Vold — sparsom og meningsfuld
 - Temaer om afhængighed (et tilbagevendende plotelement)
 - Fare for børn som dramatisk drivkraft, behandlet med omhu
 - Politisk manipulation og forræderi
@@ -76,7 +76,7 @@ Dette er udgangspunkter, ikke krav. Arbejd sammen med DM'en om at gøre dem til 
 - **Efterforskeren** — Du fulgte et spor — en forsvundet person, en stjålet genstand, et rygte — der førte dig til tågerne. Du kom for at finde svar. Barovia har mere at byde på, end du havde regnet med.
 - **Beskytteren** — Nogen du holder af blev taget, eller er i fare. Dit job er at holde dem i live — selv hvis det betyder at skaffe sig fjender blandt de forkerte mennesker.
 - **Søgeren** — Du har altid vidst, at noget manglede. En del af din fortid, din identitet, din slægt. Vejen til Barovia føltes uundgåelig. Som om noget altid trak dig herhen.
-- **Soldaten** — Du har kæmpet. Du ved, hvad vold koster. Barovia er i krig — ikke hære, men en langsom krig af frygt og udmattelse. Din erfaring gør dig værdifuld. Og farlig.
+- **Soldaten** — Du har kæmpet. Du ved, hvad vold koster. Barovia er i krig — en langsom krig af frygt og udmattelse, uden fronter eller faner. Din erfaring gør dig værdifuld. Og farlig.
 - **Den Faldne** — Du begik en fejl. Eller verden begik en på din bekostning. Du er her, fordi du ikke havde andre steder at gå hen. Barovia er ligeglad med din fortid. Det vil skabe dig en ny.
 - **Den Trofaste** — Du tjener noget større end dig selv. Barovia vil teste, om den tro kan overleve i et land, hvor håb er rationeret og mirakler er sjældne.
 
@@ -104,7 +104,7 @@ Hvem I hjælper, hvem I forråder, hvad I ødelægger, og hvad I beskytter — a
 
 ## Kampagnekontrakten
 
-*Læs den igennem sammen med resten af gruppen — det er ikke en formalitet, men en fælles forventningsafstemning før I går i gang.*
+*Læs den igennem sammen med resten af gruppen — en fælles forventningsafstemning før I går i gang.*
 
 Jeg, **________________________**, forstår og accepterer følgende:
 

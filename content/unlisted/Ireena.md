@@ -9,6 +9,8 @@ comments: false
 > [!info] Denne side er privat
 > Dette er en personlig karakterbriefing til den ene spiller, der spiller Ireena Kolyanovich. Del den ikke med resten af gruppen — pointen er at kun du kender det her.
 
+**Baggrund:** Ireena har intet fast tildelt baggrund — du vælger en almindelig 2024-baggrund som alle andre, ud fra det liv, du beslutter hun levede udenfor Barovia (fx Soldier, Guard, Wayfarer eller Merchant passer alle til "eventyrer, soldat, handler"). Aftal valget med din DM.
+
 ---
 
 ### Hvem du er (det du ved)

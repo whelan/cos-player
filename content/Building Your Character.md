@@ -137,7 +137,7 @@ Slå eller vælg frit blandt de 16 backgrounds i 2024 Player's Handbook.
 | 16 | Wayfarer |
 
 > [!note]- Hvis du kender 2014-backgrounds
-> Cirka-tilsvarende: City Watch/Knight of the Order → **Guard**; Cloistered Scholar → **Sage** eller **Scribe**; Courtier → **Noble**; Fisher → **Sailor** eller **Guide**; Folk Hero → **Guide** eller **Farmer**; Guild Artisan → **Artisan**; Outlander → **Wayfarer**; Urchin → **Criminal** eller **Guard**, omtolket. **Haunted One** (den *Curse of Strahd*-specifikke background) og **Sailor (Pirate)** har ingen officiel 2024-udgave — spørg din DM, om I skal omtolke en nærliggende 2024-background eller blive ved den gamle for netop det valg.
+> Cirka-tilsvarende: City Watch/Knight of the Order → **Guard**; Cloistered Scholar → **Sage** eller **Scribe**; Courtier → **Noble**; Fisher → **Sailor** eller **Guide**; Folk Hero → **Guide** eller **Farmer**; Guild Artisan → **Artisan**; Outlander → **Wayfarer**; Urchin → **Criminal** eller **Guard**, omtolket. **Haunted One** (den *Curse of Strahd*-specifikke baggrund) har ingen officiel 2024-udgave — her omtolket som **Wayfarer** (se baggrundshooket *Vistani-blod*). **Sailor (Pirate)** har heller ingen 2024-udgave — spørg din DM, om I skal omtolke en nærliggende 2024-baggrund eller blive ved den gamle for netop det valg.
 
 ### Fobi
 

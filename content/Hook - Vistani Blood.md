@@ -19,4 +19,4 @@ Du har for nylig modtaget en pakke med en bog svøbt i papir og en note, der lyd
 > Med al min kærlighed og håb,
 > Din bedstemor
 
-Din karakter får **Haunted One-baggrunden** *(ingen officiel 2024-udgave — spørg din DM, om I skal omtolke en nærliggende 2024-baggrund eller blive ved den gamle for netop dette valg)*.
+Din karakter får **Wayfarer-baggrunden** (2024) — omtolket til at repræsentere et liv formet af en skjult Vistani-arv frem for en almindelig vandrers.

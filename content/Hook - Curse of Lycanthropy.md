@@ -6,7 +6,7 @@ title: "Baggrundshook: Lykantropiens Forbandelse"
 
 #### Lykantrop
 
-Du er forbandet med en virulent stamme af lykantropi, der modstår *remove curse*.
+Du er forbandet med en virulent stamme af lykantropi, der modstår *remove curse*. Dette hook erstatter ikke din baggrund — vælg en almindelig 2024-baggrund som normalt (for dens ability score improvement, Origin feat osv.); det følgende lægges oveni.
 
 **Skill Proficiencies:** Stealth, Perception
 

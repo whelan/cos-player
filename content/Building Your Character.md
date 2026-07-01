@@ -281,6 +281,29 @@ Vælg én eller flere af hver for at forankre din karakter følelsesmæssigt i h
 
 ---
 
+## Trin 5 — Din motivation & dit relikvie (valgfrit)
+
+Din DM kan vælge at bruge **Barovianske Relikvier** som en ekstra åbningsvariant for kampagnen. Hvis det er tilfældet, vælger du en kernemotivation fra tabellen nedenfor — eller slår 1d12 — og din karakter begynder kampagnen i besiddelse af det tilhørende relikvie.
+
+| d12 | Motivation | Relikvie |
+|-----|------------|----------|
+| 1 | Viden | Ravgult Skår |
+| 2 | Forløsning | Englens Fjer |
+| 3 | Familie | Vandrerens Tørklæde |
+| 4 | Arv | Dragens Skæl |
+| 5 | Rigdom | Elektrum-mønten |
+| 6 | Helbredelse | Ulvetanden |
+| 7 | Pligt | Ravnens Fjer |
+| 8 | Magt | Det Krøllede Blad |
+| 9 | Ambition | Det Laset Banner |
+| 10 | Tro | Solopgangsmedaljonen |
+| 11 | Harmoni | Stenmærket |
+| 12 | Retfærdighed | Det Knækkede Sværd |
+
+Din motivation former, hvad din karakter håber at finde eller opnå i Barovia. Spørg din DM om den fulde baggrundstekst for dit relikvie, når du har valgt — den fortæller, hvad genstanden er, og hvordan den føles at have på sig.
+
+---
+
 ## Barovia-arter
 
 *Valgfrie homebrew subspecies til karakterer født i Barovia. Alle kræver din DM's godkendelse, og indeholder mindre worldbuilding-spoilers om Barovias folkeslag — intet, der rører ved kampagnens centrale mysterier.*

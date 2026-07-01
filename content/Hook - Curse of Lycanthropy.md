@@ -1,12 +1,8 @@
 ---
 title: "Baggrundshook: Lykantropiens Forbandelse"
-comments: false
 ---
 
 # Baggrundshook: Lykantropiens Forbandelse
-
-> [!info] Denne side er privat
-> Dette er et personligt baggrundshook til den spiller, DM'en har tildelt det. Del den ikke med resten af gruppen.
 
 #### Lykantrop
 

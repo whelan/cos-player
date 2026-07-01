@@ -304,6 +304,18 @@ Din motivation former, hvad din karakter håber at finde eller opnå i Barovia. 
 
 ---
 
+## Trin 6 — Baggrundshook (valgfrit)
+
+Din DM kan give en eller flere spillere et af følgende hooks som en konkret grund til, at netop den karakter er draget mod Barovia. Hvert hook foreslår også en baggrund til karakteren.
+
+- [[Hook - Missing Merchant|Den Forsvundne Købmand]]
+- [[Hook - Sun Blade Relic|Solklingen]]
+- [[Hook - Temple|Templet]]
+- [[Hook - Curse of Lycanthropy|Lykantropiens Forbandelse]]
+- [[Hook - Vistani Blood|Vistani-blod]]
+
+---
+
 ## Barovia-arter
 
 *Valgfrie homebrew subspecies til karakterer født i Barovia. Alle kræver din DM's godkendelse, og indeholder mindre worldbuilding-spoilers om Barovias folkeslag — intet, der rører ved kampagnens centrale mysterier.*

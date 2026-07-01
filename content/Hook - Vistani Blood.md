@@ -1,12 +1,8 @@
 ---
 title: "Baggrundshook: Vistani-blod"
-comments: false
 ---
 
 # Baggrundshook: Vistani-blod
-
-> [!info] Denne side er privat
-> Dette er et personligt baggrundshook til den spiller, DM'en har tildelt det. Del den ikke med resten af gruppen.
 
 Du har for nylig modtaget en pakke med en bog svøbt i papir og en note, der lyder som følger:
 

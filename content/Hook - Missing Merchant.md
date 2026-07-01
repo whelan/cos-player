@@ -1,12 +1,8 @@
 ---
 title: "Baggrundshook: Den Forsvundne Købmand"
-comments: false
 ---
 
 # Baggrundshook: Den Forsvundne Købmand
-
-> [!info] Denne side er privat
-> Dette er et personligt baggrundshook til den spiller, DM'en har tildelt det. Del den ikke med resten af gruppen.
 
 Et af dine familiemedlemmer er en købmand, der skaffer sjældne genstande til velhavende adelshuse. De rejste for måneder siden for at skaffe en kasse sjælden vin fra Barovias lande. Du modtog et brev om, at de havde mødt en gruppe handlende, Vistani, som hjalp dem med at finde vinen. Din slægtning lovede at være hjemme om en måned. Det var seks måneder siden. Du er blevet bekymret, og det er adelshuset, der hyrede dem, også.
 

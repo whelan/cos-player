@@ -1,49 +1,49 @@
 ---
-title: The Barovia Portal
+title: Barovia-portalen
 ---
 
 <div class="ravenloft-journal">
 
-# The Barovia Portal
+# Barovia-portalen
 
-> *"You have entered Barovia. You will not leave the same — if you leave at all."*
+> *"Du er trådt ind i Barovia. Du forlader den ikke som den samme — hvis du overhovedet slipper ud."*
 
-Welcome, traveller. This is your gateway to the campaign — the things you are meant to know, and the place you keep your own record. Everything here is yours to read. The deeper truths of Barovia you will have to earn at the table.
-
----
-
-## Start here
-
-- **[[Player Introduction]]** — what this campaign is, its tone, the content-and-safety agreement, and what is expected of you. Read this first.
-- **[[Building Your Character]]** — a step-by-step guide to creating your character: backstory tables, personality, flaws and bonds, and optional Barovian race options.
-
-*(Your character briefing, if you have a special one, is given to you privately by the DM — it lives outside this portal.)*
+Velkommen, rejsende. Dette er din indgang til kampagnen — det du er ment til at vide, og stedet hvor du fører din egen optegnelse. Alt her er dit at læse. Barovias dybere sandheder skal du gøre dig fortjent til ved bordet.
 
 ---
 
-## At the table
+## Start her
 
-This is gothic horror, and it can go to dark places. You always hold the brake:
+- **[[Player Introduction|Spillerintroduktion]]** — hvad denne kampagne er, dens tone, indhold-og-sikkerhedsaftalen, og hvad der forventes af dig. Læs denne først.
+- **[[Building Your Character|Byg din karakter]]** — en trin-for-trin guide til at bygge din karakter: baggrundstabeller, personlighed, flaws og bonds, og valgfrie Barovia-arter.
 
-> Say **"pause for a second"** at any time to step out of the fiction and talk it through — including *"I'm not comfortable with where this is heading."* Everyone honours it, no questions asked.
-
-Trust is earned slowly here. Allies are rare. Not every problem is solved with a sword, and not every monster is the thing to fear.
+*(Din karakterbriefing, hvis du har en speciel en, gives til dig privat af DM'en — den ligger uden for denne portal.)*
 
 ---
 
-## Your session log
+## Ved bordet
 
-After each session, **one player writes up what happened** so the party keeps its own chronicle of the descent.
+Dette er gotisk horror, og det kan gå til mørke steder. Du har altid bremsen:
 
-**To add a session note:** scroll to the **comment thread at the bottom of this page** and post it there — session number, what happened, the choices you made, and the threads left dangling. It takes a minute and works from your phone. Anyone can read the log; posting asks for a free GitHub sign-in so your name is on the entry.
+> Sig **"pause et øjeblik"** når som helst for at træde ud af fiktionen og tale det igennem — inklusive *"jeg er ikke tryg ved hvor det her er på vej hen."* Alle respekterer det, ingen spørgsmål stillet.
 
-The whole party's notes gather there in one place, so you can read back through the campaign any time.
+Tillid opbygges langsomt her. Allierede er sjældne. Ikke ethvert problem løses med et sværd, og ikke ethvert uhyre er det, du skal frygte.
+
+---
+
+## Din session-log
+
+Efter hver session skriver **én spiller** op, hvad der skete, så gruppen holder sin egen krønike over nedstigningen.
+
+**Sådan tilføjer du en session-note:** scroll til **kommentartråden nederst på denne side** og post den der — sessionsnummer, hvad der skete, de valg I traf, og de tråde der stadig hænger løse. Det tager et minut og virker fra din telefon. Alle kan læse loggen; at poste kræver et gratis GitHub-login, så dit navn står på indlægget.
+
+Hele gruppens noter samles ét sted, så I kan læse tilbage gennem kampagnen når som helst.
 
 ---
 
 <div class="whisper">
 
-The fog remembers everything. So should you.
+Tågen husker alt. Det bør du også.
 
 </div>
 

@@ -29,6 +29,7 @@ const giscus = Component.Comments({
     lightTheme: "light",
     darkTheme: "dark_dimmed",
     inputPosition: "top",
+    lang: "da",
   },
 })
 
@@ -39,7 +40,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Player Introduction": "/Player-Introduction",
+      Spillerintroduktion: "/Player-Introduction",
     },
   }),
 }

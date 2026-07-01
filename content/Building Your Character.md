@@ -1,117 +1,121 @@
-# Building Your Character
+---
+title: Byg din karakter
+---
 
-*A step-by-step guide to creating your Curse of Strahd character. Spoiler-free — everything here is safe to read before session one.*
+# Byg din karakter
 
-> [!info] Read [[Player Introduction]] first
-> This guide assumes you've already read the [[Player Introduction]] — the campaign's tone, the content-and-safety agreement, the Three Golden Rules, and the starting details (Level 1, standard equipment, one personal item of sentimental value). This page picks up from there with the practical steps of building the character itself.
+*En trin-for-trin guide til at skabe din Curse of Strahd-karakter. Spoiler-fri — alt her er trygt at læse før session ét.*
+
+> [!info] Læs [[Player Introduction|Spillerintroduktionen]] først
+> Denne guide antager, at du allerede har læst [[Player Introduction|Spillerintroduktionen]] — kampagnens tone, indhold-og-sikkerhedsaftalen, de tre gyldne regler, og startdetaljerne (Level 1, standardudstyr, én personlig genstand af sentimental værdi). Denne side fortsætter derfra med de praktiske trin i at bygge selve karakteren.
 
 ---
 
-## Step 1 — Species & Class
+## Trin 1 — Species & Class
 
-Pick any species and class from the 2024 Player's Handbook (or another source your DM allows). There's no restriction beyond the usual — talk to your DM if you have something unusual in mind.
+Vælg en vilkårlig species og class fra 2024 Player's Handbook (eller en anden kilde din DM tillader). Der er ingen begrænsning ud over det sædvanlige — tal med din DM, hvis du har noget usædvanligt i tankerne.
 
-**One exception:** there is no playable vampire species. Every vampire in Barovia traces back to Strahd, their creator, and must obey his commands — a player character bound to the campaign's central villain would actively prevent the party from opposing him.
+**Én undtagelse:** der er ingen spilbar vampyr-species. Enhver vampyr i Barovia kan spores tilbage til Strahd, deres skaber, og skal adlyde hans befalinger — en spillerkarakter bundet til kampagnens centrale skurk ville aktivt forhindre gruppen i at modarbejde ham.
 
-> [!info]+ Ability score improvements come from your Background, not your species
-> Under the 2024 rules, your species gives you traits (like Darkvision or damage resistances) but no ability score bonus. That bonus comes from the **Background** you pick in Step 3, along with an Origin feat.
+> [!info]+ Ability score improvements kommer fra din Background, ikke din species
+> Under 2024-reglerne giver din species dig traits (som Darkvision eller damage resistances), men ingen ability score-bonus. Den bonus kommer fra den **Background**, du vælger i Trin 3, sammen med et Origin feat.
 
 > [!info]+ Weapon Mastery
-> If you're a Barbarian, Fighter, Monk, Paladin, Ranger, or Rogue, you get to apply a mastery property (Cleave, Graze, Nick, Push, Sap, Slow, Topple, or Vex) to weapons you're proficient with, starting at 1st level. Check your class table in the 2024 Player's Handbook for exactly when and how many.
+> Hvis du spiller Barbarian, Fighter, Monk, Paladin, Ranger eller Rogue, kan du tilføje en mastery property (Cleave, Graze, Nick, Push, Sap, Slow, Topple eller Vex) til våben, du er proficient med, fra 1st level. Tjek din class-tabel i 2024 Player's Handbook for præcis hvornår og hvor mange.
 
-> [!info]+ Optional: playing a character born in Barovia
-> If your character concept is a *native Barovian* rather than an outsider swept in by the mists, four homebrew subspecies are available — see **[[#Barovian species options]]** below. All of them require your DM's approval.
+> [!info]+ Valgfrit: at spille en karakter født i Barovia
+> Hvis dit karakterkoncept er en *indfødt barovianer* frem for en udenforstående, der er trukket ind af tågerne, findes der fire homebrew subspecies — se **[[#Barovia-arter]]** nedenfor. Alle kræver din DM's godkendelse.
 
 ---
 
-## Step 2 — Backstory: Where You Come From
+## Trin 2 — Baggrundshistorie: Hvor du kommer fra
 
-Roll on the tables below, or simply pick whatever fits your concept — these are tools for inspiration, not requirements.
+Slå på tabellerne nedenfor, eller vælg blot det, der passer til dit koncept — de er redskaber til inspiration, ikke krav.
 
-### Hometown
+### Hjemby
 
-| d100 | Hometown | Size |
+| d100 | Hjemby | Størrelse |
 |------|----------|------|
-| 1–15 | Waterdeep | City |
-| 16–25 | Daggerford | Town |
-| 26–35 | Secomber | Town |
-| 36–45 | Goldenfields | Town |
-| 46–55 | Julkoun | Village |
-| 56–65 | Bowshot | Village |
-| 66–75 | Gillian's Hill | Village |
-| 76–85 | Womford | Village |
-| 86–00 | Unnamed Hamlet | Hamlet |
+| 1–15 | Waterdeep | By |
+| 16–25 | Daggerford | Købstad |
+| 26–35 | Secomber | Købstad |
+| 36–45 | Goldenfields | Købstad |
+| 46–55 | Julkoun | Landsby |
+| 56–65 | Bowshot | Landsby |
+| 66–75 | Gillian's Hill | Landsby |
+| 76–85 | Womford | Landsby |
+| 86–00 | Unavngivet hamlet | Hamlet |
 
-**Waterdeep** is one of the largest cities in Faerûn, with over two million inhabitants and 75+ noble houses. **Daggerford** is a large walled town south of Waterdeep, ruled by a duchy. **Secomber** is famous for its justice system and is a base for stonecutters and guides. **Goldenfields** is surrounded by magnificent fields and a great temple to Chauntea. **Julkoun** is a small farming village led by halflings. **Bowshot** is a road town nearest the Misty Forest. **Gillian's Hill** has a local crypt with an entrance to the Underdark. **Womford** is a mill town on the Dessarin River.
+**Waterdeep** er en af de største byer i Faerûn, med over to millioner indbyggere og 75+ adelshuse. **Daggerford** er en stor muromkranset købstad syd for Waterdeep, styret af et hertugdømme. **Secomber** er berømt for sit retssystem og er en base for stenhuggere og guider. **Goldenfields** er omgivet af storslåede marker og et stort tempel for Chauntea. **Julkoun** er en lille landbrugslandsby ledet af halflings. **Bowshot** er en vejby nærmest Misty Forest. **Gillian's Hill** har en lokal krypt med en indgang til Underdark. **Womford** er en møllerby ved Dessarin-floden.
 
-### Family Size
+### Familiestørrelse
 
-Use your hometown's size to roll on the matching table.
+Brug din hjembys størrelse til at slå på den tilsvarende tabel.
 
-**City / Town**
+**By / Købstad**
 
-| d100 | Parents | d100 | Siblings |
+| d100 | Forældre | d100 | Søskende |
 |------|---------|------|----------|
 | 1–10 | 1d4+2 | 1–12 | 2d4+2 |
 | 11–45 | 2 | 13–38 | 2d4−2 |
 | 46–80 | 1 | 39–88 | 1d4 |
 | 81–00 | 0 | 89–00 | 0 |
 
-**Village / Hamlet**
+**Landsby / Hamlet**
 
-| d100 | Parents | d100 | Siblings |
+| d100 | Forældre | d100 | Søskende |
 |------|---------|------|----------|
 | 1–15 | 1d4+2 | 1–20 | 2d4+2 |
 | 16–50 | 2 | 21–50 | 2d4−2 |
 | 51–85 | 1 | 51–80 | 1d4 |
 | 86–00 | 0 | 81–00 | 0 |
 
-### Fateful Relationships
+### Skæbnesvangre relationer
 
-Roll 1d4−1 (minimum 1) to determine how many fateful relationships you have, then roll that many times below.
+Slå 1d4−1 (minimum 1) for at afgøre, hvor mange skæbnesvangre relationer du har, og slå så det antal gange nedenfor.
 
-| d100 | Relationship |
+| d100 | Relation |
 |------|--------------|
-| 1–3 | You once saved a small animal from dying, and it has followed you ever since. Choose an animal of CR 1/8 or lower as a pet. It cannot help you in combat or social encounters unless you have magic or mechanical abilities to justify it. |
-| 4–7 | You once tried to steal from someone but were caught in the act. Instead of reporting you, this person hired you. |
-| 8–10 | One of your parents left home. You were the only one who saw them go. |
-| 11–13 | You once knew an adventurer of great talent and trained under them. But this adventurer vanished under mysterious circumstances. |
-| 14–16 | Someone you loved was murdered in cold blood. You got your revenge, but acted more monstrously than the murderer in the process. |
-| 17–20 | You know a fortune-teller, but everything they predict is false. |
-| 21–23 | During a journey you ran into a notorious band of robbers. You managed to impress one of their leaders, and they now hold you in friendship. |
-| 24–27 | A priest once gave you safe shelter in their church in your time of need. |
-| 28–30 | You and a family member were once attacked by a werewolf. Though you were both bitten, only the family member got the curse. Months later you found them killed with a silver bolt in the chest. |
-| 31–33 | You and a family member were once in a terrible accident. In an act of cowardice you left them to die to save your own skin. |
-| 34–37 | One of your family members has always favored you over the others. |
-| 38–40 | You know someone who survived over a year in the Shadowfell. They are now half-mad and tell you the most terrible stories. |
-| 41–43 | A person knows one of your darkest secrets. They do whatever they say to keep it hidden. |
-| 44–46 | A witch healed you or someone you care about of a serious illness. You now have a healthy respect for blood ritual magic. |
-| 47–50 | You got into a friendly brawl with a family member, but in a sudden turn you killed them by accident. |
-| 51–53 | You were once engaged to be married, but the engagement came to an unhappy end. You haven't seen your former betrothed since. |
-| 54–56 | One of your family members is indecently wealthy. You are not. |
-| 57–60 | You got into trouble and blamed a family member. That family member paid dearly for your crime. |
-| 61–63 | You were once in an accident that cost you your life. Someone paid out of their own pocket for a priest's *revivify*. |
-| 64–67 | You married young. The marriage was short and ended under unfortunate circumstances. |
-| 68–70 | You and a family member once offended a powerful mage. The mage turned the family member into an animal (CR 1/8 or lower). Everyone thinks it's just your pet. |
-| 71–74 | A wounded stranger once collapsed at your door. They revealed little about the cause of their injury, but you nursed them back to health. |
-| 75–77 | Someone you care about has a chronic illness that cannot be cured. |
-| 78–81 | You are not your one parent's biological child. You know this fact, and your parent does not. |
-| 82–84 | A sick traveler once brought a terrible plague to your hometown and killed many. That traveler survived, and you still blame them for the death of your loved ones. |
-| 85–87 | You had a mentor, but you weren't their only student. You were either the least favored or the least successful. |
-| 88–90 | You once hired an adventurer to solve a monster problem in your hometown. They solved it so effectively that you seek to emulate their skills. |
-| 91–93 | You recently discovered that one of your family members is part of a demonic cult. |
-| 94–97 | A family member has disowned you and renounced you as family. |
-| 98–00 | You recently discovered that one of your closest friends is in love with you, but you don't return the feeling. |
+| 1–3 | Du reddede engang et lille dyr fra at dø, og det har fulgt dig lige siden. Vælg et dyr med CR 1/8 eller lavere som kæledyr. Det kan ikke hjælpe dig i kamp eller sociale møder, medmindre du har magiske eller mekaniske evner, der retfærdiggør det. |
+| 4–7 | Du forsøgte engang at stjæle fra nogen, men blev grebet på fersk gerning. I stedet for at melde dig ansatte personen dig. |
+| 8–10 | En af dine forældre forlod hjemmet. Du var den eneste, der så dem gå. |
+| 11–13 | Du kendte engang en eventyrer med stort talent og trænede under dem. Men denne eventyrer forsvandt under mystiske omstændigheder. |
+| 14–16 | Nogen, du elskede, blev myrdet i koldt blod. Du fik din hævn, men handlede mere monstrøst end morderen selv. |
+| 17–20 | Du kender en spåkone, men alt, hun forudsiger, er falsk. |
+| 21–23 | Under en rejse løb du ind i en berygtet røverbande. Du formåede at imponere en af deres ledere, og de holder nu af dig i venskab. |
+| 24–27 | En præst gav dig engang husly i sin kirke i din nødstid. |
+| 28–30 | Du og et familiemedlem blev engang angrebet af en varulv. Selvom I begge blev bidt, fik kun familiemedlemmet forbandelsen. Måneder senere fandt du dem dræbt med en sølvbolt i brystet. |
+| 31–33 | Du og et familiemedlem var engang i en frygtelig ulykke. I en fej handling lod du dem dø for at redde dig selv. |
+| 34–37 | Et af dine familiemedlemmer har altid foretrukket dig frem for de andre. |
+| 38–40 | Du kender nogen, der overlevede over et år i Shadowfell. De er nu halvt vanvittige og fortæller dig de mest forfærdelige historier. |
+| 41–43 | En person kender en af dine mørkeste hemmeligheder. De gør, hvad de kan, for at holde den skjult. |
+| 44–46 | En heks helbredte dig eller nogen, du holder af, for en alvorlig sygdom. Du har nu en sund respekt for blodritual-magi. |
+| 47–50 | Du kom op at slås i sjov med et familiemedlem, men i en pludselig vending dræbte du dem ved et uheld. |
+| 51–53 | Du var engang forlovet, men forlovelsen endte ulykkeligt. Du har ikke set din tidligere forlovede siden. |
+| 54–56 | Et af dine familiemedlemmer er anstødeligt velhavende. Det er du ikke. |
+| 57–60 | Du kom i problemer og gav skylden til et familiemedlem. Det familiemedlem betalte dyrt for din forbrydelse. |
+| 61–63 | Du var engang i en ulykke, der kostede dig livet. Nogen betalte af egen lomme for en præsts *revivify*. |
+| 64–67 | Du blev gift ung. Ægteskabet var kort og endte under uheldige omstændigheder. |
+| 68–70 | Du og et familiemedlem fornærmede engang en mægtig troldmand. Troldmanden forvandlede familiemedlemmet til et dyr (CR 1/8 eller lavere). Alle tror, det bare er dit kæledyr. |
+| 71–74 | En såret fremmed kollapsede engang ved din dør. De afslørede kun lidt om årsagen til deres skade, men du plejede dem tilbage til helbred. |
+| 75–77 | Nogen, du holder af, har en kronisk sygdom, der ikke kan helbredes. |
+| 78–81 | Du er ikke din ene forælders biologiske barn. Du kender denne kendsgerning, det gør din forælder ikke. |
+| 82–84 | En syg rejsende bragte engang en frygtelig pest til din hjemby og dræbte mange. Den rejsende overlevede, og du bebrejder dem stadig for dine kæres død. |
+| 85–87 | Du havde en mentor, men du var ikke deres eneste elev. Du var enten den mindst foretrukne eller mindst succesfulde. |
+| 88–90 | Du hyrede engang en eventyrer til at løse et monsterproblem i din hjemby. De løste det så effektivt, at du søger at efterligne deres færdigheder. |
+| 91–93 | Du opdagede for nylig, at et af dine familiemedlemmer er del af en dæmonisk kult. |
+| 94–97 | Et familiemedlem har forstødt dig og fornægtet dig som familie. |
+| 98–00 | Du opdagede for nylig, at en af dine nærmeste venner er forelsket i dig, men du gengælder ikke følelsen. |
 
 ---
 
-## Step 3 — Personality
+## Trin 3 — Personlighed
 
 ### Background
 
-Your background is more than flavor under the 2024 rules — it's where your character's **ability score improvement** (+2 to one ability and +1 to another, or +1 to three), two **skill proficiencies**, a **tool proficiency**, starting equipment, and an **Origin feat** all come from. Pick whichever fits your concept below, then check the 2024 Player's Handbook for that background's exact grants — or ask your DM.
+Din background er mere end krydderi under 2024-reglerne — det er her din karakters **ability score improvement** (+2 til én ability og +1 til en anden, eller +1 til tre), to **skill proficiencies**, en **tool proficiency**, startudstyr og et **Origin feat** kommer fra. Vælg det, der passer til dit koncept nedenfor, og slå så op i 2024 Player's Handbook for den præcise background — eller spørg din DM.
 
-Roll or choose freely from the 16 backgrounds in the 2024 Player's Handbook.
+Slå eller vælg frit blandt de 16 backgrounds i 2024 Player's Handbook.
 
 | d16 | Background |
 |-----|------------|
@@ -132,198 +136,200 @@ Roll or choose freely from the 16 backgrounds in the 2024 Player's Handbook.
 | 15 | Soldier |
 | 16 | Wayfarer |
 
-> [!note]- If you know the 2014 backgrounds
-> Rough equivalents: City Watch/Knight of the Order → **Guard**; Cloistered Scholar → **Sage** or **Scribe**; Courtier → **Noble**; Fisher → **Sailor** or **Guide**; Folk Hero → **Guide** or **Farmer**; Guild Artisan → **Artisan**; Outlander → **Wayfarer**; Urchin → **Criminal** or **Guard**, reflavored. **Haunted One** (the *Curse of Strahd*-specific background) and **Sailor (Pirate)** have no official 2024 version — ask your DM whether to reflavor a close 2024 background or keep using the 2014 one for that pick specifically.
+> [!note]- Hvis du kender 2014-backgrounds
+> Cirka-tilsvarende: City Watch/Knight of the Order → **Guard**; Cloistered Scholar → **Sage** eller **Scribe**; Courtier → **Noble**; Fisher → **Sailor** eller **Guide**; Folk Hero → **Guide** eller **Farmer**; Guild Artisan → **Artisan**; Outlander → **Wayfarer**; Urchin → **Criminal** eller **Guard**, omtolket. **Haunted One** (den *Curse of Strahd*-specifikke background) og **Sailor (Pirate)** har ingen officiel 2024-udgave — spørg din DM, om I skal omtolke en nærliggende 2024-background eller blive ved den gamle for netop det valg.
 
-### Phobia
+### Fobi
 
-This is gothic horror. Somewhere in their life, your character developed a phobia — an anxiety-driven fear bordering on the irrational.
+Dette er gotisk horror. På et tidspunkt i deres liv udviklede din karakter en fobi — en angstdrevet frygt på grænsen til det irrationelle.
 
-| d20 | Phobia | Fear of |
+| d20 | Fobi | Frygt for |
 |-----|--------|---------|
-| 1 | Acrophobia | Heights |
-| 2 | Agoraphobia | Open or crowded spaces |
-| 3 | Aphenphosmphobia | Being touched |
-| 4 | Arachnophobia | Spiders |
-| 5 | Astraphobia | Thunderstorms |
-| 6 | Ataxophobia | Disorder or untidiness |
-| 7 | Autophobia | Being alone |
-| 8 | Catoptrophobia | Mirrors |
-| 9 | Claustrophobia | Enclosed spaces |
-| 10 | Cynophobia | Dogs |
-| 11 | Ailurophobia | Cats |
-| 12 | Hemophobia | Blood |
-| 13 | Iatrophobia | Doctors or healers |
-| 14 | Insectophobia | Insects |
-| 15 | Mysophobia | Dirt or germs |
-| 16 | Necrophobia | Death or dead things |
-| 17 | Nyctophobia | Darkness |
-| 18 | Pedophobia | Children |
-| 19 | Pyrophobia | Fire |
-| 20 | Zoophobia | Animals |
+| 1 | Akrofobi | Højder |
+| 2 | Agorafobi | Åbne eller overfyldte steder |
+| 3 | Hafefobi | At blive rørt ved |
+| 4 | Arachnofobi | Edderkopper |
+| 5 | Astrafobi | Tordenvejr |
+| 6 | Ataxofobi | Uorden eller rod |
+| 7 | Autofobi | At være alene |
+| 8 | Katoptrofobi | Spejle |
+| 9 | Klaustrofobi | Lukkede rum |
+| 10 | Kynofobi | Hunde |
+| 11 | Ailurofobi | Katte |
+| 12 | Hæmofobi | Blod |
+| 13 | Iatrofobi | Læger eller healere |
+| 14 | Insektofobi | Insekter |
+| 15 | Mysofobi | Snavs eller bakterier |
+| 16 | Nekrofobi | Død eller døde ting |
+| 17 | Nyktofobi | Mørke |
+| 18 | Pedophobia | Børn |
+| 19 | Pyrofobi | Ild |
+| 20 | Zoofobi | Dyr |
 
-### Favorite Food and Drink
+*(Nummer 18 er bevidst holdt engelsk — den danske stavemåde ligner uheldigt et helt andet og alvorligt ord.)*
 
-**Food (1d12):** meat pie · salomene (fried fish with spiced rice) · chicken pie · vegetable stew · cinnamon brew (roasted beef with wine, cinnamon, almonds) · onion tart · venison · rique-manger (fried apple and egg with saffron) · root salad · mawmeny (meat in brown gravy) · funges (leeks and mushrooms in broth) · hot porridge.
+### Yndlingsmad og -drikke
 
-**Dessert (1d8):** twisted milk bread · rice tart · sugared almonds · grape pudding · date bars · syrup pears · gingerbread · apple mousse.
+**Mad (1d12):** kødtærte · salomene (stegt fisk med krydret ris) · kylletærte · grøntsagsgryde · kanelbryg (stegt oksekød med vin, kanel, mandler) · løgtærte · dådyrsteg · rique-manger (stegt æble og æg med safran) · rodfrugtsalat · mawmeny (kød i brun sky) · funges (porrer og svampe i suppe) · varm grød.
 
-**Drink (1d10):** water · beer · spirits · mead · tea · ale · cider · milk · sweet fruit wine · aged red wine.
+**Dessert (1d8):** flettet mælkebrød · risetærte · sukrede mandler · drue-budding · dadelbarer · sirupspærer · honningkage · æblemousse.
+
+**Drikke (1d10):** vand · øl · spiritus · mjød · te · ale · cider · mælk · sød frugtvin · lagret rødvin.
 
 ### Trinket
 
-Roll on the trinket table on p. 210 of *Curse of Strahd* Appendix A — a strange or peculiar object your character has carried for no particular reason.
+Slå på trinket-tabellen på s. 210 i *Curse of Strahd* Appendix A — en mærkelig eller ejendommelig genstand, din karakter har båret på uden nogen særlig grund.
 
-### Quirks
+### Sære vaner
 
-| d20 | Quirk |
+| d20 | Sær vane |
 |-----|-------|
-| 1 | Birds unsettle you. You feel that every bird nearby is watching you. |
-| 2 | You have trouble sleeping with a light on. Any light source keeps you awake unless it's off or very dim, like moonlight. |
-| 3 | Although you have no trouble sleeping on the floor, you deeply enjoy having a comfortable bed and a room to yourself. |
-| 4 | You hate carrying loose change. When the opportunity arises, you exchange coppers and silvers for round gold coins. |
-| 5 | You were a very small child, undersized no matter what you ate. Even after a proper growth spurt, you're soft-hearted toward shorter individuals. |
-| 6 | You have a favorite weapon that you've given a name. |
-| 7 | You hate soup. No matter how tasty or filling, you consider soup glorified water and avoid it if you can. |
-| 8 | You are extremely confident about your own looks. You have a habit of admiring your own reflection whenever you get the chance. |
-| 9 | You claim to speak an exotic language. If asked to demonstrate, you make up gibberish. No one has caught you out yet. |
-| 10 | You greet everyone you meet with a hug and a kiss on the cheek, no matter how unfriendly they are. Only outright hostility stops this greeting. |
-| 11 | Your resting face looks angry. You often try to smile — not out of joy, but so people won't ask if you're alright. |
-| 12 | You take all superstitions seriously. Even if you don't believe them, you'd rather not ignore a bad omen. |
-| 13 | You are illiterate and will stop at nothing to make sure no one knows it. |
-| 14 | You believe that a mother's love for her children is the truest love in the world. |
-| 15 | You like to wear rings on your fingers and fiddle with them often. |
-| 16 | You are a morning person. You're the first to wake in camp and always cheerfully present. |
-| 17 | You have a very specific request for what should happen to your body if you die. You inform everyone you travel with and always carry a written will. |
-| 18 | You prefer to dress in your favorite color and will go to great lengths to acquire clothing, cakes, and trinkets in that color. |
-| 19 | You can easily roll a coin across your fingers and do so habitually when your mind wanders. |
-| 20 | Whether you need it or not, you prefer to wear a hood at all times. Maybe it gives you comfort. Or maybe you're trying to hide a budding bald spot. |
+| 1 | Fugle gør dig utryg. Du føler, at enhver fugl i nærheden holder øje med dig. |
+| 2 | Du har svært ved at sove med lys tændt. Enhver lyskilde holder dig vågen, medmindre den er slukket eller meget svag, som måneskin. |
+| 3 | Selvom du ikke har problemer med at sove på gulvet, nyder du dybt at have en behagelig seng og et værelse for dig selv. |
+| 4 | Du hader at bære løse mønter. Når muligheden byder sig, bytter du kobber og sølv til runde guldmønter. |
+| 5 | Du var et meget lille barn, undervægtigt uanset hvad du spiste. Selv efter et ordentligt vækstspurt er du blødhjertet over for lavere personer. |
+| 6 | Du har et yndlingsvåben, du har givet et navn. |
+| 7 | Du hader suppe. Uanset hvor lækker eller mættende den er, betragter du suppe som forherliget vand og undgår den, hvis du kan. |
+| 8 | Du er ekstremt selvsikker omkring dit eget udseende. Du har for vane at beundre din egen refleksion, når du får chancen. |
+| 9 | Du hævder at tale et eksotisk sprog. Hvis du bliver bedt om at demonstrere det, opfinder du volapyk. Ingen har grebet dig i det endnu. |
+| 10 | Du hilser alle, du møder, med et kram og et kys på kinden, uanset hvor uvenlige de er. Kun åbenlys fjendtlighed stopper denne hilsen. |
+| 11 | Dit hvilende ansigt ser vredt ud. Du prøver ofte at smile — ikke af glæde, men så folk ikke spørger, om du er okay. |
+| 12 | Du tager alle overtroer alvorligt. Selv hvis du ikke tror på dem, vil du hellere ikke ignorere et dårligt varsel. |
+| 13 | Du er analfabet og vil stoppe ved intet for at sikre, at ingen ved det. |
+| 14 | Du tror, at en mors kærlighed til sine børn er den sandeste kærlighed i verden. |
+| 15 | Du kan lide at bære ringe på fingrene og fingerer ofte med dem. |
+| 16 | Du er et morgenmenneske. Du er den første, der vågner i lejren, og altid munter til stede. |
+| 17 | Du har en meget specifik anmodning om, hvad der skal ske med din krop, hvis du dør. Du informerer alle, du rejser med, og bærer altid et skriftligt testamente. |
+| 18 | Du foretrækker at klæde dig i din yndlingsfarve og vil gå langt for at skaffe tøj, kager og trinkets i den farve. |
+| 19 | Du kan nemt rulle en mønt hen over dine fingre og gør det vanemæssigt, når dine tanker vandrer. |
+| 20 | Uanset om du har brug for det eller ej, foretrækker du at bære en hætte hele tiden. Måske giver det dig tryghed. Eller måske prøver du at skjule en begyndende skaldethed. |
 
 ---
 
-## Step 4 — Flaws & Bonds
+## Trin 4 — Flaws & Bonds
 
-Pick one or more of each to anchor your character emotionally in the story — a struggle they carry, and a memory that still shapes them. Both are meant to grow and change at the table, not stay fixed.
+Vælg én eller flere af hver for at forankre din karakter følelsesmæssigt i historien — en kamp de bærer på, og et minde der stadig former dem. Begge dele er ment til at vokse og ændre sig ved bordet, ikke stå fast.
 
 ### Flaws
 
-| Flaw | Character Arc |
+| Flaw | Karakterbue |
 |------|----------------|
-| Addiction | I must learn to conquer the addictions and demons that twist my better nature. |
-| Ambition | I must learn to value things other than power and control. |
-| Anger | I must learn to let go of my need for revenge. |
-| Anxiety | I must learn to be confident in my ability to protect those I love. |
-| Apathy | I must learn to hold hope again for the future. |
-| Control | I must learn to let go of my need to control those around me. |
-| Cynicism | I must learn to have faith in things greater than myself once again. |
-| Denial | I must learn to allow myself to grieve for the things I have lost. |
-| Doubt | I must learn to become the hero that I've been waiting for. |
-| Greed | I must learn to let go of the things I believe I'm owed. |
-| Grief | I must learn to move past the loved one that I lost. |
-| Guilt | I must learn to let go of my guilt for my failure to protect my loved one. |
-| Hesitation | I must learn to conquer my fear of the responsibilities that are expected of me. |
-| Hubris | I must learn to accept that others have wisdom that I do not. |
-| Impiety | I must learn to find my way back to the grace that I abandoned. |
-| Insecurity | I must learn to define myself apart from the expectations of others. |
-| Isolation | I must learn to open up and allow others to get close to me. |
-| Naivete | I must learn to protect myself from those who would take advantage of me. |
-| Narcissism | I must learn to value the lives and experiences of others. |
-| Nostalgia | I must learn to leave the past behind and to look to the future instead. |
-| Obsession | I must learn to confront the harms that my obsessions have caused to others. |
-| Paranoia | I must learn to stop using my fears as an excuse to harm others. |
-| Pride | I must learn to ask others for help, rather than shouldering responsibility alone. |
-| Recklessness | I must learn to slow down — to stop, wait, and think before I act. |
-| Resentment | I must learn to let go of the anger that was born from my grief. |
-| Ruthlessness | I must learn the value of mercy and compassion. |
-| Sanctimony | I must learn to let go of my need to feel righteous and pure. |
-| Shame | I must learn to let go of my guilt for the mistakes that I have made. |
-| Spite | I must learn to forgive those who have hurt those I love. |
-| Stubbornness | I must learn to overcome my pride and make amends to those I have hurt. |
-| Timidity | I must learn to stand up for myself, rather than letting others control me. |
+| Afhængighed | Jeg må lære at overvinde de afhængigheder og dæmoner, der fordrejer min bedre natur. |
+| Ambition | Jeg må lære at værdsætte andet end magt og kontrol. |
+| Vrede | Jeg må lære at give slip på mit behov for hævn. |
+| Angst | Jeg må lære at have tillid til min evne til at beskytte dem, jeg elsker. |
+| Apati | Jeg må lære at genfinde håbet for fremtiden. |
+| Kontrol | Jeg må lære at give slip på mit behov for at kontrollere dem omkring mig. |
+| Kynisme | Jeg må lære at have tro på noget større end mig selv igen. |
+| Fornægtelse | Jeg må lære at tillade mig selv at sørge over det, jeg har mistet. |
+| Tvivl | Jeg må lære at blive den helt, jeg har ventet på. |
+| Grådighed | Jeg må lære at give slip på de ting, jeg tror, jeg er berettiget til. |
+| Sorg | Jeg må lære at komme videre fra den elskede, jeg mistede. |
+| Skyld | Jeg må lære at give slip på min skyld over ikke at kunne beskytte min elskede. |
+| Tøven | Jeg må lære at overvinde min frygt for det ansvar, der forventes af mig. |
+| Hovmod | Jeg må lære at acceptere, at andre besidder visdom, jeg ikke har. |
+| Ugudelighed | Jeg må lære at finde vejen tilbage til den nåde, jeg forlod. |
+| Usikkerhed | Jeg må lære at definere mig selv uafhængigt af andres forventninger. |
+| Isolation | Jeg må lære at åbne mig og lade andre komme tæt på mig. |
+| Naivitet | Jeg må lære at beskytte mig selv mod dem, der ville udnytte mig. |
+| Narcissisme | Jeg må lære at værdsætte andres liv og oplevelser. |
+| Nostalgi | Jeg må lære at lægge fortiden bag mig og se fremad i stedet. |
+| Besættelse | Jeg må lære at konfrontere den skade, mine besættelser har forårsaget andre. |
+| Paranoia | Jeg må lære at stoppe med at bruge min frygt som undskyldning for at skade andre. |
+| Stolthed | Jeg må lære at bede andre om hjælp i stedet for at bære ansvaret alene. |
+| Overmod | Jeg må lære at sætte farten ned — at stoppe, vente og tænke, før jeg handler. |
+| Vrede over uret | Jeg må lære at give slip på den vrede, der udsprang af min sorg. |
+| Hensynsløshed | Jeg må lære værdien af barmhjertighed og medfølelse. |
+| Selvretfærdighed | Jeg må lære at give slip på mit behov for at føle mig retfærdig og ren. |
+| Skam | Jeg må lære at give slip på min skyld over de fejl, jeg har begået. |
+| Ondskabsfuldhed | Jeg må lære at tilgive dem, der har såret dem, jeg elsker. |
+| Stædighed | Jeg må lære at overvinde min stolthed og gøre det godt igen over for dem, jeg har såret. |
+| Frygtsomhed | Jeg må lære at stå op for mig selv i stedet for at lade andre kontrollere mig. |
 
 ### Bonds
 
-| Bond | Character History |
+| Bond | Karakterhistorie |
 |------|---------------------|
-| Abuse | One of my siblings was cruel to me as a child. I've forgiven them, but never forgotten. |
-| Bitterness | Two warring lords brought devastation to my community. I wish I could show them the cost of their war. |
-| Boundaries | I was once pursued by an unrelenting suitor. No one should have to endure what I did. |
-| Comparison | My older sibling was burdened by great expectations while I was not. I think they resented me for it. |
-| Compassion | Someone tried to steal from me once. Rather than hurting them, I helped them instead. |
-| Concern | One of my loved ones left home to seek their fortune. I hope they're staying safe. |
-| Corruption | Everyone knows that power corrupts. I've seen how firsthand. |
-| Determination | My mentor was one of the few people that believed in me. I'm determined to make them proud. |
-| Devastation | Someone once destroyed everything I cared about. I can't understand what could drive someone to such evil. |
-| Devotion | I love my family above all else. There's nothing I wouldn't do to protect them. |
-| Dignity | People should never be used as a means to an end. I should know. |
-| Division | My family was split by a bitter feud. I still hope that they'll reconcile someday. |
-| Empathy | I'll never forget the sound my parents made when they learned that my sibling had died. |
-| Faith | I know what it's like to be persecuted for what you believe in. I never let it shake my beliefs. |
-| Forgiveness | Someone once did me great harm. It was only much later that I learned to forgive them. |
-| Gratitude | Someone took me in when I had no one else to turn to. I'll always be grateful. |
-| Hope | I lost someone close to me to addiction and vice. I still hope that they'll get better someday. |
-| Humility | I've seen what happens when people think they have all the answers. It never turns out well. |
-| Judgment | I've seen people cause great harm in the name of faith. They laughed when I called it a sin. |
-| Loss | One of my loved ones was stolen away from me. I'm still searching for them. |
-| Loyalty | Someone close to me fell onto a dark path. I'd do anything to redeem them. |
-| Nostalgia | One of my parents loved to create things. Their work always brought me joy. |
-| Oppression | A cruel lord once ruled my community. I'll never forgive the harms he caused to my people. |
-| Regret | I once knew someone with grand, ambitious plans. I wish they'd heeded my advice. |
-| Responsibility | I watched someone allow their family to come to ruin. I'll never do the same. |
-| Romance | Love never dies. It might flicker, but I'll never let it burn out. |
-| Secrecy | I once promised someone I'd keep their secrets safe. I intend to do so — no matter the cost. |
+| Misbrug | En af mine søskende var grusom mod mig som barn. Jeg har tilgivet dem, men aldrig glemt det. |
+| Bitterhed | To krigsførende herrer bragte ødelæggelse til mit samfund. Jeg ville ønske, jeg kunne vise dem prisen for deres krig. |
+| Grænser | Jeg blev engang forfulgt af en ubøjelig frier. Ingen burde skulle udholde det, jeg gjorde. |
+| Sammenligning | Min ældre søskende bar tunge forventninger, mens jeg ikke gjorde. Jeg tror, de bar nag til mig for det. |
+| Medfølelse | Nogen prøvede engang at stjæle fra mig. I stedet for at skade dem hjalp jeg dem. |
+| Bekymring | En af mine kære forlod hjemmet for at søge deres lykke. Jeg håber, de er i sikkerhed. |
+| Korruption | Alle ved, at magt korrumperer. Jeg har set det på egen krop. |
+| Beslutsomhed | Min mentor var en af de få, der troede på mig. Jeg er fast besluttet på at gøre dem stolte. |
+| Ødelæggelse | Nogen ødelagde engang alt, jeg holdt af. Jeg kan ikke forstå, hvad der kunne drive nogen til sådan ondskab. |
+| Hengivenhed | Jeg elsker min familie over alt andet. Der er intet, jeg ikke ville gøre for at beskytte dem. |
+| Værdighed | Mennesker bør aldrig bruges som et middel til et mål. Det ved jeg. |
+| Splittelse | Min familie blev splittet af en bitter fejde. Jeg håber stadig, de en dag vil forsones. |
+| Empati | Jeg glemmer aldrig lyden, mine forældre lavede, da de fik at vide, at min søskende var død. |
+| Tro | Jeg ved, hvordan det er at blive forfulgt for det, man tror på. Jeg lod det aldrig ryste min overbevisning. |
+| Tilgivelse | Nogen gjorde mig engang stor skade. Det var først meget senere, jeg lærte at tilgive dem. |
+| Taknemmelighed | Nogen tog mig ind, da jeg ikke havde andre at gå til. Jeg vil altid være taknemmelig. |
+| Håb | Jeg mistede nogen tæt på mig til afhængighed og last. Jeg håber stadig, de får det bedre en dag. |
+| Ydmyghed | Jeg har set, hvad der sker, når folk tror, de har alle svarene. Det går aldrig godt. |
+| Dømmekraft | Jeg har set folk forårsage stor skade i troens navn. De lo, da jeg kaldte det en synd. |
+| Tab | En af mine kære blev stjålet fra mig. Jeg leder stadig efter dem. |
+| Loyalitet | Nogen tæt på mig faldt ind på en mørk sti. Jeg ville gøre alt for at redde dem. |
+| Nostalgi | En af mine forældre elskede at skabe ting. Deres arbejde bragte mig altid glæde. |
+| Undertrykkelse | En grusom herre regerede engang mit samfund. Jeg vil aldrig tilgive den skade, han forårsagede mit folk. |
+| Fortrydelse | Jeg kendte engang nogen med store, ambitiøse planer. Jeg ville ønske, de havde lyttet til mine råd. |
+| Ansvarlighed | Jeg så nogen lade deres familie gå til grunde. Jeg vil aldrig gøre det samme. |
+| Romantik | Kærligheden dør aldrig. Den kan flimre, men jeg lader den aldrig gå ud. |
+| Hemmeligholdelse | Jeg lovede engang nogen at holde deres hemmeligheder skjult. Jeg agter at gøre det — uanset prisen. |
 
 ---
 
-## Barovian species options
+## Barovia-arter
 
-*Optional homebrew subspecies for characters born in Barovia. All require your DM's approval, and contain minor worldbuilding spoilers about Barovia's peoples — nothing that touches the campaign's central mysteries.*
+*Valgfrie homebrew subspecies til karakterer født i Barovia. Alle kræver din DM's godkendelse, og indeholder mindre worldbuilding-spoilers om Barovias folkeslag — intet, der rører ved kampagnens centrale mysterier.*
 
-> [!note]+ No ability score bonus here — that comes from your Background
-> These homebrew subspecies predate the 2024 rules and originally granted a fixed ability score increase. Under 2024, ability score improvements come only from your Background (Step 3), so the increases below are dropped; everything else about each subspecies (proficiencies, resistances, shapechanging, and so on) still applies as written.
+> [!note]+ Ingen ability score-bonus her — den kommer fra din Background
+> Disse homebrew subspecies stammer fra før 2024-reglerne og gav oprindeligt en fast ability score increase. Under 2024 kommer ability score improvements kun fra din Background (Trin 3), så bonusserne herunder er fjernet; alt andet ved hver subspecies (proficiencies, resistances, shapechanging osv.) gælder stadig som skrevet.
 
 ### Dusk Elf (Elf Subspecies)
 
-A rare, nearly extinct subgroup of elves native to the Domains of Dread, settled in Barovia's valley after a war with Strahd's father generations ago. They live in a small settlement south of Vallaki, sharing space with a Vistani camp, and have long since given up open confrontation.
+En sjælden, næsten uddød undergruppe af elves, hjemmehørende i Domains of Dread, som slog sig ned i Barovias dal efter en krig mod Strahds far for generationer siden. De lever i en lille bosættelse syd for Vallaki, og deler plads med en Vistani-lejr, og har for længst opgivet åben konfrontation.
 
-- **Age.** Minimum age of about 250 years; no dusk elf child has been born in generations.
-- **Dusk Elf Weapon Training.** Proficiency with hand crossbows, light crossbows, shortbows, and longbows.
-- **Fleet of Foot.** Base walking speed 35 feet.
-- **Shadow Masking.** Advantage on Dexterity (Stealth) checks to hide in darkness or heavily obscured natural surroundings (foliage, heavy rain, falling snow, mist).
+- **Alder.** Minimumsalder på omkring 250 år; intet dusk elf-barn er født i generationer.
+- **Dusk Elf Weapon Training.** Proficiency med hand crossbows, light crossbows, shortbows og longbows.
+- **Fleet of Foot.** Grundlæggende gangfart 35 feet.
+- **Shadow Masking.** Advantage på Dexterity (Stealth) checks for at gemme sig i mørke eller kraftigt tilslørede naturlige omgivelser (løvværk, kraftig regn, faldende sne, tåge).
 
 ### Vistani (Human Subspecies)
 
-*Replaces the standard Human traits in the 2024 PHB.* The Vistani are a colorful, nomadic people who travel Barovia in family groups, prize the gift of divination, and believe in the Threads of Fate rather than any god.
+*Erstatter de almindelige Human traits i 2024 PHB.* Vistani er et farverigt, nomadisk folk, der rejser rundt i Barovia i familiegrupper, værdsætter spådomsgaven, og tror på Skæbnens Tråde frem for nogen gud.
 
-- **Vistani Skill.** Proficiency in one of: Deception, History, Insight, Perception, Performance, Persuasion, Sleight of Hand, Stealth.
-- **Mist-Bound.** Taking up arms against Strahd costs you free passage through the mists — but you keep your Vistani relationships.
-- **Premonition.** Proficiency with Tarokka cards. Once per long rest, use your reaction to reduce melee damage taken by 1d8 + your Charisma modifier.
-- **Vistani Curse.** Cast *bane* (or, at 9th level, *bestow curse*) without somatic/material components — or apply a minor cosmetic/inconveniencing curse instead. Full mechanical text available from your DM.
+- **Vistani Skill.** Proficiency i én af: Deception, History, Insight, Perception, Performance, Persuasion, Sleight of Hand, Stealth.
+- **Mist-Bound.** At tage våben op mod Strahd koster dig fri passage gennem tågerne — men du beholder dine Vistani-relationer.
+- **Premonition.** Proficiency med Tarokka-kort. Én gang pr. long rest kan du bruge din reaction til at reducere melee-skade taget med 1d8 + din Charisma-modifier.
+- **Vistani Curse.** Kast *bane* (eller, på 9th level, *bestow curse*) uden somatiske/materielle komponenter — eller påfør i stedet en mindre kosmetisk/generende forbandelse. Fuld mekanisk tekst fås hos din DM.
 
 ### Wereraven (Human Subspecies)
 
-*Replaces the standard Human traits in the 2024 PHB.* Inherited (not infected) lycanthropes who live peacefully among Barovians; some form a mutual-support network called the Keepers of the Feather.
+*Erstatter de almindelige Human traits i 2024 PHB.* Nedarvede (ikke smittede) lycanthropes, der lever fredeligt blandt barovianere; nogle danner et indbyrdes støttenetværk kaldet Keepers of the Feather.
 
-- **Wereraven Skill.** Proficiency in one of: Acrobatics, Animal Handling, Deception, Insight, Perception, Stealth.
-- **Shapechanger.** Shift between human, raven-hybrid, and raven forms.
-- **Curse's Rage.** A short, powerful rage in hybrid form — damage resistance, advantage on Dex/Wis saves, extra unarmed strikes — followed by exhaustion.
-- **Silver Vulnerability**, **Birds of a Feather**, and **Mimicry** round out the traits. Full mechanical text available from your DM.
+- **Wereraven Skill.** Proficiency i én af: Acrobatics, Animal Handling, Deception, Insight, Perception, Stealth.
+- **Shapechanger.** Skift mellem menneskelig, ravn-hybrid og ravneform.
+- **Curse's Rage.** Et kort, kraftfuldt raserianfald i hybridform — damage resistance, advantage på Dex/Wis saves, ekstra unarmed strikes — efterfulgt af exhaustion.
+- **Silver Vulnerability**, **Birds of a Feather** og **Mimicry** runder traits'ene af. Fuld mekanisk tekst fås hos din DM.
 
 ### Werewolf (Human Subspecies)
 
-*Replaces the standard Human traits in the 2024 PHB.* Unlike wereravens, Barovia's werewolves are mostly infected and dangerous — an inherited werewolf character is a rare exception, living on the fringes of settlements in small packs.
+*Erstatter de almindelige Human traits i 2024 PHB.* Modsat wereravens er Barovias werewolves for det meste smittede og farlige — en nedarvet werewolf-karakter er en sjælden undtagelse, der lever i udkanten af bosættelser i små flokke.
 
-- **Werewolf Skill.** Proficiency in one of: Animal Handling, Athletics, Intimidation, Nature, Perception, Stealth, Survival.
-- **Shapechanger.** Shift between human, wolf-hybrid, and wolf forms.
-- **Curse's Rage** and **Silver Vulnerability** as the wereraven, above.
-- **Keen Hearing and Smell.** Advantage on Wisdom (Perception) checks relying on hearing or smell (hybrid/wolf form only). Full mechanical text available from your DM.
+- **Werewolf Skill.** Proficiency i én af: Animal Handling, Athletics, Intimidation, Nature, Perception, Stealth, Survival.
+- **Shapechanger.** Skift mellem menneskelig, ulv-hybrid og ulveform.
+- **Curse's Rage** og **Silver Vulnerability** som wereraven, ovenfor.
+- **Keen Hearing and Smell.** Advantage på Wisdom (Perception) checks der afhænger af hørelse eller lugtesans (kun hybrid-/ulveform). Fuld mekanisk tekst fås hos din DM.
 
 ---
 
-## What happens at the table
+## Hvad der sker ved bordet
 
-- Your DM may privately offer your character a **personal background hook** — a specific reason your character is drawn to Barovia. If so, it'll be given to you individually, not posted here.
-- Your DM may also give your character a **mysterious secret** at some point. That's deliberate — the campaign's deeper truths are earned at the table, not read in advance.
-- If you lose a character partway through the campaign, your DM has additional options for a replacement — ask them when it happens.
+- Din DM kan privat tilbyde din karakter et **personligt baggrundshook** — en specifik grund til, at din karakter er draget mod Barovia. Hvis det sker, gives det til dig individuelt, ikke her.
+- Din DM kan også give din karakter en **mystisk hemmelighed** på et tidspunkt. Det er med vilje — kampagnens dybere sandheder skal gøres fortjent ved bordet, ikke læses på forhånd.
+- Hvis du mister en karakter undervejs i kampagnen, har din DM yderligere muligheder for en erstatning — spørg dem, når det sker.
 
-Bring your finished character, your Flaw and Bond, and your one personal item of sentimental value to session one. See you in the mists.
+Medbring din færdige karakter, dit Flaw og Bond, og din ene personlige genstand af sentimental værdi til session ét. Vi ses i tågerne.

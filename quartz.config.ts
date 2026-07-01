@@ -11,12 +11,12 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "The Barovia Portal",
+    pageTitle: "Barovia-portalen",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    locale: "en-US",
+    locale: "da-DK",
     // GitHub Pages project site. Served at https://whelan.github.io/cos-player/
     baseUrl: "whelan.github.io/cos-player",
     ignorePatterns: ["private", "templates", ".obsidian"],

@@ -1,107 +1,111 @@
+---
+title: Spillerintroduktion
+---
+
 # Curse of Strahd
-## A Gothic Horror Campaign
+## En gotisk horror-kampagne
 
-> *"You have entered Barovia. You will not leave the same — if you leave at all."*
+> *"Du er trådt ind i Barovia. Du forlader den ikke som den samme — hvis du overhovedet slipper ud."*
 
-Curse of Strahd is a gothic horror campaign of mystery, survival, and consequence. It is a campaign about people trapped in a dark land, fighting not only for their lives but for the lives of those around them. It will challenge your characters morally, emotionally, and physically. It is not a game you walk away from unchanged.
-
----
-
-## Welcome to Barovia
-
-### What Is This Campaign?
-
-Curse of Strahd is set in Barovia — a land trapped behind walls of magical mist, ruled by the vampire Count Strahd von Zarovich. You are strangers drawn into this land against your will. Your goal is to survive, uncover the mysteries of this cursed place, and ultimately find a way to free Barovia from its dark master — or die trying.
-
-This is not a typical heroic adventure. Barovia will test your characters morally, emotionally, and physically. Allies are rare. Trust is earned slowly. And not every problem can be solved with a sword.
-
-### The Tone
-
-This campaign is gothic horror. Expect:
-
-- **Atmosphere over action** — Fog-shrouded villages, crumbling castles, and flickering candlelight
-- **Moral ambiguity** — Not every villain is evil, not every ally is good
-- **Consequences** — Your choices shape the world and the story
-- **Mystery** — Answers come slowly, and some truths are better left unfound
-- **Moments of warmth** — Because horror needs light to cast a shadow
+Curse of Strahd er en gotisk horror-kampagne om mysterier, overlevelse og konsekvens. Det er en kampagne om mennesker fanget i et mørkt land, der kæmper ikke kun for deres eget liv, men for livet hos dem omkring dem. Den vil udfordre jeres karakterer moralsk, følelsesmæssigt og fysisk. Det er ikke et spil, man går fra uforandret.
 
 ---
 
-## Content & Safety
+## Velkommen til Barovia
 
-**This campaign contains:**
+### Hvad er denne kampagne?
 
-- Psychological horror and dread
-- Violence — not gratuitous, but present and meaningful
-- Themes of addiction (a recurring plot element)
-- Child endangerment as a dramatic motivator, handled with care
-- Political manipulation and betrayal
-- Death — permanent, meaningful, and possible
+Curse of Strahd foregår i Barovia — et land fanget bag mure af magisk tåge, regeret af vampyren Grev Strahd von Zarovich. I er fremmede, trukket ind i dette land mod jeres vilje. Jeres mål er at overleve, afdække dette forbandede steds mysterier, og til sidst finde en måde at befri Barovia fra dets mørke herre — eller dø i forsøget.
 
-### Pause for a Second
+Dette er ikke et typisk heltemodigt eventyr. Barovia vil teste jeres karakterer moralsk, følelsesmæssigt og fysisk. Allierede er sjældne. Tillid opbygges langsomt. Og ikke ethvert problem kan løses med et sværd.
 
-Anyone can say **"pause for a second"** at any time to step out of the fiction and talk something through — including *"I'm not comfortable with where this is heading."* We stop, no questions asked, no explanation needed. This campaign goes to dark places, and it does so for everyone at the table.
+### Tonen
 
----
+Denne kampagne er gotisk horror. Forvent:
 
-## Character Creation
-
-### The Three Golden Rules
-
-1. **Your character wants to be here.** Even if pulled in against their will, they have a reason to engage with Barovia's problems — not just survive and flee.
-2. **Your character has a connection to others.** You need reasons to stay together under pressure.
-3. **Your character can be broken by the world.** The best characters have vulnerabilities — things they fear, things they love, things they've lost.
-
-### Class Notes
-
-- **Paladins & Clerics:** Your faith will be tested. Barovia is a place where gods feel distant. How does your character handle doubt?
-- **Rangers & Druids:** The Svalich Woods are ancient and wrong. Nature here obeys different rules.
-- **Rogues & Bards:** Information is currency in Barovia. These classes shine in political intrigue.
-- **Warlocks:** Your patron's reach into Barovia may be limited — or something here may be interested in your contract.
-
-### Starting Details
-
-We begin at **Level 1**. Use standard starting equipment for your class. Each character may bring one personal item of sentimental value from their life before Barovia. This item will matter.
+- **Stemning frem for action** — Tågeindhyllede landsbyer, forfaldne slotte og flakkende stearinlys
+- **Moralsk gråzone** — Ikke enhver skurk er ond, ikke enhver allieret er god
+- **Konsekvenser** — Jeres valg former verden og historien
+- **Mysterium** — Svar kommer langsomt, og nogle sandheder er bedre uopdagede
+- **Øjeblikke af varme** — For horror har brug for lys til at kaste en skygge
 
 ---
 
-## Suggested Backgrounds & Hooks
+## Indhold & Sikkerhed
 
-These are starting points, not requirements. Work with the DM to make them yours.
+**Denne kampagne indeholder:**
 
-- **The Investigator** — You followed a trail — a missing person, a stolen artifact, a rumor — that led you to the mists. You came to find answers. Barovia has more than you bargained for.
-- **The Protector** — Someone you care about was taken, or is in danger. Your job is to keep them alive — even if that means making enemies of the wrong people.
-- **The Seeker** — You have always known something was missing. A piece of your past, your identity, your bloodline. The road to Barovia felt inevitable. Like something was always pulling you here.
-- **The Soldier** — You have fought. You know what violence costs. Barovia is at war — not armies, but a slow war of fear and attrition. Your experience makes you valuable. And dangerous.
-- **The Fallen** — You made a mistake. Or the world made one at your expense. You are here because you had nowhere else to go. Barovia doesn't care about your past. It will make you a new one.
-- **The Faithful** — You serve something greater than yourself. Barovia will test whether that faith can survive in a land where hope is rationed and miracles are rare.
+- Psykologisk gru og ildevarslende stemning
+- Vold — ikke grænseløs, men til stede og meningsfuld
+- Temaer om afhængighed (et tilbagevendende plotelement)
+- Fare for børn som dramatisk drivkraft, behandlet med omhu
+- Politisk manipulation og forræderi
+- Død — permanent, meningsfuld og mulig
 
----
+### Pause et øjeblik
 
-## Things to Know Before You Play
-
-### The Mists
-
-You cannot leave. The Svalich Mists that border Barovia are not natural — they are a barrier maintained by Strahd's power. Characters who try to escape will find themselves turned around, lost, or worse. This is not a dungeon you can leave at the end of a session.
-
-### Strahd Knows You're Here
-
-He knows. He always knows when strangers enter his domain. He may not act immediately — he is patient, calculating, and often curious before he sees newcomers as threats. Do not mistake his silence for safety.
-
-### The People of Barovia
-
-The Barovians have lived under Strahd's shadow for generations. Many are broken. Some are collaborators. A few are quietly brave. Treat them with patience — they are not NPCs. They are people who have survived something you are only beginning to understand.
-
-### Your Choices Matter
-
-Who you help, who you betray, what you destroy and what you protect — all of it echoes. Barovia is watching. Strahd is watching. And some things, once done, cannot be undone.
+Hvem som helst kan sige **"pause et øjeblik"** når som helst for at træde ud af fiktionen og tale noget igennem — inklusive *"jeg er ikke tryg ved hvor det her er på vej hen."* Vi stopper, ingen spørgsmål stillet, ingen forklaring krævet. Denne kampagne går til mørke steder, og det gør den for alle ved bordet.
 
 ---
 
-## A Final Word
+## Karakterskabelse
 
-Curse of Strahd is best when everyone leans in. When you let your characters be afraid. When you celebrate small victories and mourn real losses. When you trust the story to take you somewhere worth going.
+### De tre gyldne regler
 
-Barovia is a dark place. But it has people worth saving, secrets worth uncovering, and — if you are very brave, and very clever, and a little lucky — a chance at something that looks almost like hope.
+1. **Din karakter vil gerne være her.** Selv hvis de er trukket ind mod deres vilje, har de en grund til at engagere sig i Barovias problemer — ikke bare overleve og flygte.
+2. **Din karakter har en forbindelse til de andre.** I har brug for grunde til at holde sammen under pres.
+3. **Din karakter kan gå i stykker af verden.** De bedste karakterer har sårbarheder — ting de frygter, ting de elsker, ting de har mistet.
 
-*— Welcome to Barovia. We're glad you made it this far. —*
+### Noter til klasser
+
+- **Paladins & Clerics:** Jeres tro bliver testet. Barovia er et sted, hvor guderne føles fjerne. Hvordan håndterer jeres karakter tvivl?
+- **Rangers & Druids:** Svalich-skoven er ældgammel og forkert. Naturen her adlyder andre regler.
+- **Rogues & Bards:** Information er valuta i Barovia. Disse klasser skinner i politiske rænkespil.
+- **Warlocks:** Jeres patrons rækkevidde ind i Barovia kan være begrænset — eller også er noget hernede interesseret i jeres pagt.
+
+### Startdetaljer
+
+Vi begynder på **Level 1**. Brug standard startudstyr for jeres klasse. Hver karakter må medbringe én personlig genstand af sentimental værdi fra livet før Barovia. Denne genstand vil få betydning.
+
+---
+
+## Foreslåede baggrunde & hooks
+
+Dette er udgangspunkter, ikke krav. Arbejd sammen med DM'en om at gøre dem til jeres egne.
+
+- **Efterforskeren** — Du fulgte et spor — en forsvundet person, en stjålet genstand, et rygte — der førte dig til tågerne. Du kom for at finde svar. Barovia har mere at byde på, end du havde regnet med.
+- **Beskytteren** — Nogen du holder af blev taget, eller er i fare. Dit job er at holde dem i live — selv hvis det betyder at skaffe sig fjender blandt de forkerte mennesker.
+- **Søgeren** — Du har altid vidst, at noget manglede. En del af din fortid, din identitet, din slægt. Vejen til Barovia føltes uundgåelig. Som om noget altid trak dig herhen.
+- **Soldaten** — Du har kæmpet. Du ved, hvad vold koster. Barovia er i krig — ikke hære, men en langsom krig af frygt og udmattelse. Din erfaring gør dig værdifuld. Og farlig.
+- **Den Faldne** — Du begik en fejl. Eller verden begik en på din bekostning. Du er her, fordi du ikke havde andre steder at gå hen. Barovia er ligeglad med din fortid. Det vil skabe dig en ny.
+- **Den Trofaste** — Du tjener noget større end dig selv. Barovia vil teste, om den tro kan overleve i et land, hvor håb er rationeret og mirakler er sjældne.
+
+---
+
+## Ting du bør vide, før du spiller
+
+### Tågerne
+
+I kan ikke slippe væk. Svalich-tågerne, der omgiver Barovia, er ikke naturlige — de er en barriere opretholdt af Strahds magt. Karakterer der forsøger at flygte vil finde sig selv vendt om, fortabte, eller værre. Dette er ikke en dungeon, I kan forlade ved sessionens afslutning.
+
+### Strahd ved, at I er her
+
+Han ved det. Han ved altid, når fremmede træder ind i hans domæne. Han handler måske ikke med det samme — han er tålmodig, beregnende, og ofte nysgerrig, før han ser nytilkomne som trusler. Forveksl ikke hans tavshed med sikkerhed.
+
+### Barovias folk
+
+Barovianerne har levet under Strahds skygge i generationer. Mange er brudte. Nogle er medløbere. Nogle få er stille modige. Behandl dem med tålmodighed — de er ikke NPC'er. De er mennesker, der har overlevet noget, I kun lige er begyndt at forstå.
+
+### Jeres valg betyder noget
+
+Hvem I hjælper, hvem I forråder, hvad I ødelægger, og hvad I beskytter — alt sammen giver genlyd. Barovia holder øje. Strahd holder øje. Og noget, når det først er gjort, kan ikke gøres om.
+
+---
+
+## Et sidste ord
+
+Curse of Strahd er bedst, når alle går all-in. Når I lader jeres karakterer være bange. Når I fejrer små sejre og sørger over ægte tab. Når I stoler på, at historien fører jer et sted hen, det er værd at komme til.
+
+Barovia er et mørkt sted. Men det har mennesker værd at redde, hemmeligheder værd at afdække, og — hvis I er meget modige, meget kloge, og lidt heldige — en chance for noget, der næsten ligner håb.
+
+*— Velkommen til Barovia. Vi er glade for, at I nåede så langt. —*

@@ -281,9 +281,9 @@ Vælg én eller flere af hver for at forankre din karakter følelsesmæssigt i h
 
 ---
 
-## Trin 5 — Din motivation & dit relikvie (valgfrit)
+## Trin 5 — Din motivation & dit relikvie
 
-Din DM kan vælge at bruge **Barovianske Relikvier** som en ekstra åbningsvariant for kampagnen. Hvis det er tilfældet, vælger du en kernemotivation fra tabellen nedenfor — eller slår 1d12 — og din karakter begynder kampagnen i besiddelse af det tilhørende relikvie.
+Kampagnen bruger **Barovianske Relikvier**: hver karakter begynder i besiddelse af et mystisk relikvie knyttet til en kernemotivation. Vælg din motivation fra tabellen nedenfor — eller slå 1d12 — som en del af din karakterskabelse.
 
 | d12 | Motivation | Relikvie |
 |-----|------------|----------|

@@ -16,6 +16,7 @@ Velkommen, rejsende. Dette er din indgang til kampagnen — det du er ment til a
 
 - **[[Player Introduction|Spillerintroduktion]]** — hvad denne kampagne er, dens tone, indhold-og-sikkerhedsaftalen, og hvad der forventes af dig. Læs denne først.
 - **[[Building Your Character|Byg din karakter]]** — en trin-for-trin guide til at bygge din karakter: baggrundstabeller, personlighed, flaws og bonds, og valgfrie Barovia-arter.
+- **[[Hvile i Barovia]]** — reglerne for Short Rest og Long Rest i kampagnen: Hit Dice, Spell Points, og hvad der sker, hvis du hviler et usikret sted.
 
 *(Din karakterbriefing, hvis du har en speciel en, gives til dig privat af DM'en — den ligger uden for denne portal.)*
 

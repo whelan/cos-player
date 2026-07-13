@@ -10,6 +10,14 @@ title: Hvile i Barovia
 
 ---
 
+## Hvad er et Hit Die?
+
+Hver class har sin egen Hit Die-type — d6, d8, d10 eller d12, afhængig af hvor hårdfør classen er (en Barbarian bruger d12, en Wizard d6). Din karakter har ét Hit Die for hvert level, den har nået — en level 5-karakter har altså 5 Hit Dice at bruge under hvile.
+
+Hver gang din karakter stiger et level, får den ét ekstra Hit Die af sin classes type — det er også terningen (plus din Constitution-modifier), du enten ruller eller tager gennemsnittet af for at finde ud af, hvor meget din maks-HP stiger.
+
+---
+
 ## Short Rest
 
 Under en Short Rest kan du kun rulle **1 Hit Die** for at afgøre, hvor mange hit points du genvinder — læg din Constitution-modifier til som normalt. Er din karakter spellcaster, genvinder du desuden Spell Points svarende til din proficiency bonus, og du kan bytte ét forberedt eller kendt spell ud.
@@ -44,6 +52,16 @@ Et værtshus, en muromkranset by, eller et andet sted din DM vurderer er sikkert
 Går du ind i en Long Rest med under 50% af dine hit points — eller med exhaustion — risikerer du at blive ramt af mareridt. Du slår en **Sanity Save** (en DC 10 Wisdom saving throw). Fejler du, rammer et tilfældigt mareridt dig, og det varer indtil din næste Long Rest. Du genvinder desuden kun halvdelen af de hit points, du normalt ville have fået fra hvilen.
 
 Din DM holder styr på, hvilket mareridt der rammer.
+
+## Stress
+
+Gentagne mareridt sætter sig. Hver gang du fejler en **Sanity Save** ved et mareridt, får din karakter 1 **Stress**.
+
+Stress forsvinder ikke af sig selv. Kun en Long Rest på et sikret sted fjerner Stress, oveni de normale fordele. Hviler du et usikret sted, eller undgår du helt at hvile, bearbejder du intet.
+
+Bygger nok Stress sig op, sætter det sig som en permanent **Affliction** — en varig mén, der ikke bare forsvinder igen. En Affliction fjernes kun ved at opsøge nogen, der faktisk kan hjælpe, løst gennem spillet — aldrig automatisk ved en hvile.
+
+Din DM holder styr på din Stress i det skjulte. Du oplever konsekvenserne ved bordet, ikke tallet på et ark.
 
 ---
 

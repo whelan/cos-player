@@ -55,13 +55,13 @@ Din DM holder styr på, hvilket mareridt der rammer.
 
 ## Stress
 
-Gentagne mareridt sætter sig. Hver gang du fejler en **Sanity Save** ved et mareridt, får du 1 **Stress** — et enkelt tal, du holder styr på ved siden af dine hit points.
+Gentagne mareridt sætter sig. Hver gang du fejler en **Sanity Save** ved et mareridt, får din karakter 1 **Stress**.
 
-Stress forsvinder ikke af sig selv. Kun en Long Rest på et sikret sted fjerner 1 Stress, oveni de normale fordele. Hviler du et usikret sted, eller undgår du helt at hvile, bearbejder du intet.
+Stress forsvinder ikke af sig selv. Kun en Long Rest på et sikret sted fjerner Stress, oveni de normale fordele. Hviler du et usikret sted, eller undgår du helt at hvile, bearbejder du intet.
 
-Når din Stress for første gang når 3, 6 eller 10, sætter det sig som en permanent **Affliction** — en varig mén, der ikke forsvinder, bare fordi din Stress falder igen bagefter. En Affliction fjernes kun ved at opsøge nogen, der faktisk kan hjælpe — abbeden, feerne, Lila, spåkonen Madam Eva — løst gennem spillet, aldrig automatisk ved en hvile.
+Bygger nok Stress sig op, sætter det sig som en permanent **Affliction** — en varig mén, der ikke bare forsvinder igen. En Affliction fjernes kun ved at opsøge nogen, der faktisk kan hjælpe, løst gennem spillet — aldrig automatisk ved en hvile.
 
-Din DM holder styr på din Stress og vælger eller ruller din Affliction, hvis du krydser en tærskel.
+Din DM holder styr på din Stress i det skjulte. Du oplever konsekvenserne ved bordet, ikke tallet på et ark.
 
 ---
 

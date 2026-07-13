@@ -10,6 +10,14 @@ title: Hvile i Barovia
 
 ---
 
+## Hvad er et Hit Die?
+
+Hver class har sin egen Hit Die-type — d6, d8, d10 eller d12, afhængig af hvor hårdfør classen er (en Barbarian bruger d12, en Wizard d6). Din karakter har ét Hit Die for hvert level, den har nået — en level 5-karakter har altså 5 Hit Dice at bruge under hvile.
+
+Hver gang din karakter stiger et level, får den ét ekstra Hit Die af sin classes type — det er også terningen (plus din Constitution-modifier), du enten ruller eller tager gennemsnittet af for at finde ud af, hvor meget din maks-HP stiger.
+
+---
+
 ## Short Rest
 
 Under en Short Rest kan du kun rulle **1 Hit Die** for at afgøre, hvor mange hit points du genvinder — læg din Constitution-modifier til som normalt. Er din karakter spellcaster, genvinder du desuden Spell Points svarende til din proficiency bonus, og du kan bytte ét forberedt eller kendt spell ud.

@@ -24,6 +24,7 @@ Only what is in `content/`. Right now that is:
 | `index.md` (the Portal) | `00 - Spillerinfo/Portal.md` |
 | `Player Introduction.md` | `00 - Spillerinfo/Player Introduction.md` |
 | `Building Your Character.md` | `00 - Spillerinfo/Building Your Character.md` |
+| `House Rules.md` | `00 - Spillerinfo/House Rules.md` |
 
 Deliberately **not** published: the DM vault itself, the private Ireena player
 briefing, and the Count's Manor handouts (those are DM-gated props handed out at

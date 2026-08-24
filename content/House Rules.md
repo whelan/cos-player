@@ -38,13 +38,13 @@ Despair kan rystes af med et Wisdom save efter en Short Rest. *Calm emotions*, *
 
 ---
 
-## Vis mig det, fortæl mig det ikke
+## Rollespil det
 
 **Dette er den vigtigste regel på siden.**
 
-Når du fejler et Fear check, et Horror check, eller en Sanity save, må du **spille det ud i stedet for at tage den mekaniske konsekvens**. Beskriv — konkret, i fiktionen — hvordan frygten tager fat i din karakter, *og* hvordan de kæmper sig igennem den. Sværdhånden, der ikke vil lukke sig. Bønnen gennem sammenbidte tænder. At bakke ind i en væg, og så tvinge en fod fremad.
+Når du fejler et Fear check, et Horror check, eller en Sanity save, kan du **spille det ud i stedet for at tage den mekaniske konsekvens**. Beskriv fortæl konkret, i fiktionen — hvordan frygten tager fat i din karakter, *og* hvordan du kæmper dig igennem den. Sværdhånden, der ikke vil lukke sig. Bønnen gennem sammenbidte tænder. At bakke ind i en væg, og så tvinge en fod fremad.
 
-Lander det, opfører din karakter sig normalt, og effekten frafaldes eller blødes op.
+Accepteres det, opfører din karakter sig normalt, og effekten frafaldes eller blødes op.
 
 *"Min karakter skriger"* tæller ikke. Det gør det heller ikke at fortælle om frygten uden at føle den. Men gjort ordentligt vender dette det værste slag på aftenen til den bedste scene på aftenen — og den byttehandel er på bordet hver eneste gang.
 
@@ -54,7 +54,7 @@ Lander det, opfører din karakter sig normalt, og effekten frafaldes eller blød
 
 Fear går over på et minut. Galskab går over på nogle timer. **Noget andet gør ikke.**
 
-Din karakter bærer på en løbende optælling af, hvad Barovia har gjort ved dem. **DM'en holder styr på tallet bag skærmen, og du får det aldrig at vide.** Du får at vide, når noget i din karakter begynder at flosse.
+Din karakter bærer på en løbende optælling af, hvad Barovia har gjort ved dem. **DM'en holder styr på tallet bag skærmen, og du får det aldrig at vide.** Du får at vide, når noget i din karakter begynder at være slidt.
 
 - Det stiger, når du fejler et Horror check eller har en tilstrækkeligt slem nat.
 - Det falder kun på én måde: en hel nats søvn et sted, der er reelt sikkert, ude af din rustning.
@@ -87,9 +87,9 @@ Går der mere end 24 timer uden en Long Rest, begynder exhaustion at hobe sig op
 
 ---
 
-## Sår, der bliver
+## Permanente sår
 
-Rammer du 0 hit points, tager et kritisk hit, eller fejler et death save slemt, skal du slå et Constitution save eller pådrage dig en **varig skade** — en halten, et ar, et ødelagt øje, noget værre.
+Rammer du 0 hit points, tager et kritisk hit, eller fejler et death save, slemt, skal du slå et Constitution save eller pådrage dig en **varig skade**, en halten, et ar, et ødelagt øje, noget værre.
 
 **Helbredende magi fjerner dem ikke.** *Cure wounds* lukker såret og efterlader skaden. For faktisk at hele én skal du finde en person i denne dal med færdigheden og viljen — hvilket er sit eget ærinde, sin egen allierede, og som regel sin egen hemmelighed.
 
@@ -123,23 +123,6 @@ Den praktiske konsekvens: **hvert level-up er en destination.** Spørg, hvor din
 **Ingen XP, og intet bogholderi.** Levels ankommer på navngivne øjeblikke i historien — når en bestemt ting er gjort, levler alle på samme tid. Du vil normalt kunne mærke det komme.
 
 Skatte og magiske genstande er reelt sjældne her. Det meste af, hvad du vinder, er allierede, information og en vej fremad.
-
----
-
-## Ord du vil se på statblocks
-
-Fire conditions, denne kampagne bruger, som ikke findes i Player's Handbook:
-
-- **Bloodied** — væsenet er på halvdelen af sine hit points eller derunder.
-- **Dazed** — det kan bevæge sig *eller* tage én action, ikke begge dele; ingen bonus action, ingen reaction.
-- **Hindered** — langsommere, én reaction mindre, og ingen multiattack.
-- **Slowed** — hver fod bevægelse koster to; angreb mod det har advantage; det har disadvantage på Dexterity saves.
-
----
-
-## Bremsen
-
-Sig **"pause et øjeblik"** når som helst for at træde ud af fiktionen og tale — inklusive *"jeg er ikke tryg ved, hvor det her er på vej hen."* Alle respekterer det, ingen spørgsmål stillet.
 
 ---
 

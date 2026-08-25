@@ -81,6 +81,10 @@ At hvile her er ikke den knap, det er i andre kampagner. **Hvor du sover, afgør
 
 **Du skal være ude af din rustning** for at få de sikrede fordele. At sove i plade er at sove hårdt.
 
+**Hvad "nogle" betyder, præcist:** en Short Rest giver ét spell slot tilbage, af et niveau der højst er halvdelen af din proficiency bonus (rundet op). En usikret Long Rest giver spell slots tilbage, hvis niveauer lagt sammen udgør halvdelen af dit karakterniveau (rundet op), ingen højere end 5th. En sikret nat giver alt tilbage, som tabellen siger.
+
+*På 1st level er det enkelt: Short Rest → ét 1st-level slot. Usikret nat → ét 1st-level slot. Sikret nat → alt.*
+
 Warlocks: jeres Pact Magic-slots vender tilbage ved en Short Rest, præcis som normalt. Og alt, der *ikke* er et spell slot — Channel Divinity, Bardic Inspiration, Second Wind, Lay on Hands, Rage, superiority dice — vender også tilbage normalt. Barovia gør **magi** svær at nå, ikke det at få vejret.
 
 Går der mere end 24 timer uden en Long Rest, begynder exhaustion at hobe sig op.

@@ -40,6 +40,8 @@ Efter hver session skriver **én spiller** op, hvad der skete, så gruppen holde
 
 Hele gruppens noter samles ét sted, så I kan læse tilbage gennem kampagnen når som helst.
 
+**[[Fælles log/index|Fælles log]]** er gruppens logbog fra Foundry, session for session og med billederne fra aftenen. Den opdateres automatisk efter hver spilaften.
+
 ---
 
 <div class="whisper">

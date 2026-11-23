@@ -8,7 +8,7 @@ title: Fundne dokumenter
 
 # Fundne dokumenter
 
-Breve, dagbogsblade og sedler, I har fundet og læst ved bordet, samlet under den aften, de dukkede op. Nyeste øverst. I alt 6.
+Breve, dagbogsblade og sedler, I har fundet og læst ved bordet, samlet under den aften, de dukkede op. Nyeste øverst. I alt 9.
 
 ## Session 9 · 19. november 2026
 
@@ -40,5 +40,8 @@ Breve, dagbogsblade og sedler, I har fundet og læst ved bordet, samlet under de
 
 - **[[strahds-warning-to-the-count|A Letter from Castle Ravenloft]]**
 - **[[letter-to-count-lugosi-seward|A Letter to Count Lugosi]]**
+- **[[concerning-the-dark-powers-and-what-they-ask|Concerning the Dark Powers, and What They Ask]]**
+- **[[the-amber-gifts-and-their-prices|The Amber Gifts, and Their Prices]]**
+- **[[whispers-beneath-the-amber|Whispers Beneath the Amber]]**
 
 </div>

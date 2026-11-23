@@ -42,6 +42,10 @@ Hele gruppens noter samles ét sted, så I kan læse tilbage gennem kampagnen n�
 
 **[[Fælles log/index|Fælles log]]** er gruppens logbog fra Foundry, session for session og med billederne fra aftenen. Den opdateres automatisk efter hver spilaften.
 
+**[[handouts/index|Fundne dokumenter]]** samler de breve og sider, I har fundet ved bordet, ordnet efter den session de dukkede op i og med link til aftenens referat.
+
+**[[Personer|Personer I har mødt]]** samler dem, I kender ved navn, og det I ved om dem, med link til den session I mødte dem.
+
 ---
 
 <div class="whisper">

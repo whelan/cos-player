@@ -8,7 +8,14 @@ title: Fundne dokumenter
 
 # Fundne dokumenter
 
-Breve, dagbogsblade og sedler, I har fundet og læst ved bordet, samlet under den aften, de dukkede op. Nyeste øverst. I alt 9.
+Breve, dagbogsblade og sedler, I har fundet og læst ved bordet, samlet under den aften, de dukkede op. Nyeste øverst. I alt 11.
+
+## Session 10 · 26. november 2026
+
+*Referat: [[Fælles log/2026-11-26|Wild Faith — Session 10 Referat]]*
+
+- **[[the-counts-journal|The Count's Journal]]**
+- **[[unsent-letters-to-lord-strahd|Unsent Letters to Lord Strahd]]**
 
 ## Session 9 · 19. november 2026
 

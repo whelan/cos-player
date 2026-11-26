@@ -47,16 +47,20 @@ Husets herre. Hans portræt ser på jer med ligegyldighed. Andres breve kalder h
 - Han ville sende datteren **Bela** til abbeden i **Krezk** og advarede: *"Do not open the iron door."*
 - Igor siger, at greven **var god engang**, at han er farlig at komme tæt på, og at hans studerekammer ligger langt mod syd i krypten.
 - Spøgelset, I tror er ham, bukkede for Ireena, før det forsvandt.
-- **Åbent:** hvor han er nu.
+- I hans studerekammer ([[Fælles log/2026-11-26|Session 10]]) lå hans dagbog, hans kort over dalen og et bundt breve til Strahd, som han aldrig sendte. Han skriver, at han har båret Strahds breve til Vallaki og Krezk i tyve år.
+- Elizabeth sagde, at hendes mand **går nede i mørket nu**.
+- **Åbent:** hvor han er nu, og hvad han gør, nu hans kone er død.
 
 ### Elizabeth Lugosi
-**Set:** som portræt fra [[Fælles log/2026-09-10|Session 2]], og formentlig som dansende spøgelse i [[Fælles log/2026-09-17|Session 3]].
+**Set:** som portræt fra [[Fælles log/2026-09-10|Session 2]], og formentlig som dansende spøgelse i [[Fælles log/2026-09-17|Session 3]]. **Mødt og død:** [[Fælles log/2026-11-26|Session 10]], bag hængelåsen i skatkammeret.
 
 Grevens hustru. Fløjteetuiet mærket **E.L.** var sandsynligvis hendes, og den fløjte bærer Lea nu.
 
 - I sit brev til Strahd takker hun for hans råd om sin mands "vanvid" og har i hemmelighed aftalt, at familien skal til Castle Ravenloft, mens greven tror, de skal til Krezk.
 - Lægen skrev, at hun fødte en datter, Bela. Greven skrev, at hun var syg og hvilede.
-- **Åbent:** hvad der skete med hende.
+- I fandt hende låst inde under krypten, udød og sulten. Hun spurgte efter **Bela**, bad jer redde **Boris**, kaldte **Lord Strahd** venlig og sagde, at han havde lovet dem husly. **Merian dræbte hende.**
+- Foran hendes lænker stod en stol med et slidt sæde, og i et vaskefad lå vand blandet med blod.
+- Hendes bønnebog, mærket **E. L.**, stod på reolen i grevens studerekammer.
 
 ### Boris
 **Mødt:** [[Fælles log/2026-09-24|Session 4]], i værelset bag hængelåsen. **Død:** [[Fælles log/2026-10-22|Session 5]].
@@ -64,6 +68,7 @@ Grevens hustru. Fløjteetuiet mærket **E.L.** var sandsynligvis hendes, og den 
 Familiens yngste søn. En statue i haven bærer hans navn. Lægen skrev, at han var låst inde. I mødte ham som et udødt barn, der kaldte jer "nyt legetøj" og bed Merian. **Varis dræbte ham.**
 
 - En lille kiste med vindmøller stod i hans værelse.
+- Hans **ABC** med navnet Boris stod på den nederste hylde i grevens studerekammer.
 - **Åbent:** hvem der gjorde ham til vampyr.
 
 ### Doctor John Seward
@@ -103,8 +108,8 @@ En hund med navnet på halsbåndet. Varis lokkede ham frem med en pølse, og han
 
 Navne, I har læst eller hørt, uden at have mødt personen.
 
-- **Strahd von Zarovich**: Barovias herre. Sagnene siger, han døde for mange år siden og nu er udød. Han skrev selv til greven, og Elizabeth skrev til ham.
-- **Bela**: Elizabeth og grevens datter. Hun og barnepigen var forsvundet, da lægen skrev sit sidste brev.
+- **Strahd von Zarovich**: Barovias herre. Sagnene siger, han døde for mange år siden og nu er udød. Han skrev selv til greven, og Elizabeth skrev til ham. Greven skrev breve til ham, som aldrig blev sendt.
+- **Bela**: Elizabeth og grevens datter. Hun og barnepigen var forsvundet, da lægen skrev sit sidste brev. Elizabeth spurgte stadig efter hende.
 - **Abbeden i Krezk**: den, greven ville betro Bela til.
 - **Karvi**: en elver, Lungari nævnte på kroen.
 - **Den gamle kvinde fra drømmen**: hun bad jer gå gennem Barovias porte og finde hende. I kender endnu ikke hendes navn.

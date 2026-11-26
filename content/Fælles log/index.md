@@ -6,6 +6,8 @@ title: Fælles log
 
 Gruppens fælles logbog fra Foundry, session for session. Den nyeste står øverst.
 
+- **26. november 2026**: [[Fælles log/2026-11-26|Wild Faith — Session 10 Referat]]
+- **Anbefalinger**: [[Fælles log/Anbefalinger|Session Anbefalinger]]
 - **19. november 2026**: [[Fælles log/2026-11-19|Wild Faith — Session 9 Referat]]
 - **12. november 2026**: [[Fælles log/2026-11-12|Wild Faith — Session 8 Referat]]
 - **5. november 2026**: [[Fælles log/2026-11-05|Wild Faith — Session 7 Referat]]

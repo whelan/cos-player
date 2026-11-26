@@ -58,7 +58,7 @@ Grevens hustru. Fløjteetuiet mærket **E.L.** var sandsynligvis hendes, og den 
 
 - I sit brev til Strahd takker hun for hans råd om sin mands "vanvid" og har i hemmelighed aftalt, at familien skal til Castle Ravenloft, mens greven tror, de skal til Krezk.
 - Lægen skrev, at hun fødte en datter, Bela. Greven skrev, at hun var syg og hvilede.
-- I fandt hende låst inde under krypten, udød og sulten. Hun spurgte efter **Bela**, bad jer redde **Boris**, kaldte **Lord Strahd** venlig og sagde, at han havde lovet dem husly. **Merian dræbte hende.**
+- I fandt hende låst inde under krypten, udød og sulten. Hun spurgte efter **Bela**, bad jer redde **Boris**, kaldte **Lord Strahd** venlig og sagde, at han havde lovet dem husly. **Merian dræbte hende** og stak bagefter en træpæl i hende.
 - Foran hendes lænker stod en stol med et slidt sæde, og i et vaskefad lå vand blandet med blod.
 - Hendes bønnebog, mærket **E. L.**, stod på reolen i grevens studerekammer.
 
